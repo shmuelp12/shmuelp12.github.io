@@ -1,5 +1,5386 @@
 const travelDataStore = [
   {
+    "region": "Southern Europe",
+    "countries": [
+      {
+        "name": "ITALY",
+        "overallWriteup": "",
+        "cities": {
+          "Rome": {
+            "name": "Rome",
+            "kosherFood": [
+              "Check with Chabad for current status of Ruth's Restaurant under supervision of Chief Rabbi of Florence",
+              "(2018) Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "(2022) Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Yaakov Drebin: https://italykosherlist.com/en/ and https://www.italykosherunion.it/en provide information on kosher products available in Italy",
+              "Sruly Gunzburg: Yotvatta Baghetto",
+              "Contact Chabad of Rome for current kosher food status",
+              "(2018) Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "You gotta be careful with the hechsher on holy cow some New Yorkers don’t hold of it and Kroger’s has a solid selection",
+              "Yaakov Drebin: Check with Chabad in Italy for specific kosher food recommendations",
+              "Check with local Chabad for current kosher restaurant recommendations",
+              "Miriam SCC: Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Drebin Moshe: Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Check with Chabad for current kosher food availability in Rome",
+              "Kosher restaurants in Rome offer a variety of traditional Jewish dishes",
+              "Random 67 (Grawitzky S): Stick to bageto milky",
+              "Kosher restaurants available in Rome for Shabbat meals",
+              "(2017) Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Labinsky M C: Bellacarne in Rome had glatt meat for almost everything on the menu, ask specifically for it",
+              "Miriam SCC: Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Baghetto offers Glatt upon request in Rome (Shabbos meals)",
+              "(2016) Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Diverse kosher food options available in Rome, Venice, and Milan including restaurants like Smash Burger and Flame",
+              "Shabbos meal options available in Rome, with some kosher restaurants offering Shabbat options in the ghetto area",
+              "(2018) - Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Rome ghetto has lots of restaurants if you stay close by",
+              "(2024) (2024) Inquire about fully glatt restaurants in Rome",
+              "(2017) Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Kosher stores in Rome, Venice, and Milan offer pre-packaged kosher food for convenience",
+              "Check with Chabad for current status of kosher food at Ruth's Restaurant in Rome",
+              "Pre-packaged kosher food available in kosher stores in Rome, Venice, and Milan",
+              "Check with local Chabad for the latest information on kosher establishments",
+              "Stern Z: Kosher wineries near Nice, France - Check out Chateau Saint-Maur in Cogolin, about 1.5 hours drive from Nice",
+              "Use KosherQuest.org for reliable kosher information",
+              "Ruth's Restaurant in Rome under supervision of Chief Rabbi of Florence, verify status with Chabad",
+              "Kosher food options available at non-kosher breakfast, need to arrange in advance",
+              "Nothing really south of Rome other than the restaurant in Capri, if it's still open",
+              "Ruth's Restaurant in Rome under supervision of Chief Rabbi of Florence, advisable to confirm current status with Chabad",
+              "(2018) () Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Daniel Klein: Bona pizza",
+              "Yaakov Drebin: http://www.italykosherunion.it/en/kosher-food-list/",
+              "No specific kosher food recommendations mentioned",
+              "Kosher stores available in Rome, Venice, and Milan for pre-packaged kosher food",
+              "Italy requires self-quarantine even for connecting flights, confirm details before travel",
+              "(0564) +1 (347) 486-0564: Bella Carne pretty good",
+              "Check with Chabad for kosher food recommendations in Rome, Venice, and Milan",
+              "Kosher stores offer pre-packaged food in Rome, Venice, and Milan",
+              "(2016) Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "(2022) Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Check with Chabad in Rome for kosher food recommendations",
+              "(2023) https://yeahthatskosher.com/2023/07/new-restaurant-in-italy-capri-kosher-open-daily-shabbat-meals/",
+              "Drebin Moshe: Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Check with Chabad for current kosher food options in Rome",
+              "Kosher breakfast available at PH Nyc with arrangements by the operations manager Andrew for Globalist members",
+              "Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status"
+            ],
+            "minyanim": [
+              "Miriam SCC: Chabad of Rome available for minyanim",
+              "(2016) Chabad of Rome available for minyanim",
+              "Brody H: Chabad of Rome available for minyanim",
+              "Drebin Moshe: Multiple synagogues in Rome area",
+              "Brody H: Multiple synagogues in Rome area",
+              "Multiple synagogues available in the Rome area for prayers",
+              "(2018) () Chabad of Rome available for minyanim",
+              "Multiple synagogues in Rome area for prayer services",
+              "(2022) Chabad of Rome available for minyanim",
+              "(2018) Multiple synagogues in Rome area",
+              "(2017) Chabad of Rome available for minyanim",
+              "Multiple synagogues in Rome area",
+              "Stern Z: Multiple synagogues in Rome area",
+              "Chabad of Rome provides daily minyanim and Shabbat services",
+              "Chabad of Rome available for minyanim",
+              "(2017) Multiple synagogues in Rome area",
+              "Chabad of Rome provides minyanim services",
+              "(2018) Chabad of Rome available for minyanim",
+              "Random 26 (Yoni Shechter): Multiple synagogues in Italy for minyanim",
+              "Chabad of Rome provides minyanim and Jewish services",
+              "Drebin Moshe: Chabad of Rome available for minyanim",
+              "(2022) Multiple synagogues in Rome area",
+              "Random 26 (Yoni Shechter): Chabad outside of Scranton available for Shabbat services in Italy",
+              "Chabad of Rome and multiple synagogues in the Rome area provide minyanim services",
+              "Multiple synagogues in the Rome area welcome visitors for prayers",
+              "(2016) Multiple synagogues in Rome area",
+              "Miriam SCC: Multiple synagogues in Rome area",
+              "Opportunities to join minyanim in Florence, Tuscany, Venice, and Milan during specific dates",
+              "No specific minyanim recommendations mentioned",
+              "(2018) () Multiple synagogues in Rome area",
+              "Register in advance with passport and vaccination certificate for shul attendance in Rome",
+              "(2018) - Chabad of Rome available for minyanim",
+              "(2018) - Multiple synagogues in Rome area",
+              "Chabad of Rome offers minyanim services",
+              "Contact local Chabad in Rome for minyanim information"
+            ],
+            "accommodations": [
+              "Dani — YeahThatsKosher: Check with local Chabad for accommodation recommendations in Italy",
+              "Drebin Moshe: Check with local Chabad for accommodation recommendations",
+              "Various accommodation options in Rome",
+              "(2022) Check with local Chabad for accommodation recommendations",
+              "No specific accommodations recommendations mentioned",
+              "For personalized recommendations, check with the local Chabad in Rome",
+              "Various hotels in Rome cater to kosher travelers, ensuring a comfortable stay",
+              "Check with local Chabad for accommodation recommendations in Rome",
+              "Various hotels available in Rome",
+              "(2018) Check with local Chabad for accommodation recommendations",
+              "(2016) Various hotels available in Rome",
+              "Various hotels and accommodations available in Rome",
+              "Stern Z: Various hotels available in Rome",
+              "Miriam SCC: Various hotels available in Rome",
+              "Brody H: Check with Chabad of Rome for accommodation recommendations",
+              "(2018) Various hotels available in Rome",
+              "New luxury hotel in Rome scheduled to open in April, just a 5-minute walk from kosher food",
+              "Recommend checking with local Chabad for accommodation options",
+              "Check with local Chabad for accommodation recommendations",
+              "(2018) - Various hotels available in Rome",
+              "Range of hotels in Rome, including options near Jewish quarters",
+              "Check with Chabad of Rome for accommodation suggestions",
+              "Miriam SCC: Check with local Chabad for accommodation recommendations",
+              "Check with Chabad of Rome for accommodation recommendations",
+              "(2022) Various hotels available in Rome",
+              "(2018) () Various hotels available in Rome",
+              "(2016) Check with local Chabad for accommodation recommendations",
+              "Drebin Moshe: Various hotels available in Rome",
+              "Rome offers various hotels suitable for different group sizes",
+              "(2018) () Check with local Chabad for accommodation recommendations",
+              "Seek accommodation recommendations from local Chabad for kosher-friendly options",
+              "Contact local Chabad for recommendations on kosher-friendly accommodations",
+              "(2018) - Check with local Chabad for accommodation recommendations",
+              "Various hotels to choose from in Rome",
+              "(2017) Various hotels available in Rome",
+              "Look for hotels or apartments near the Jewish Ghetto in Rome for a convenient stay",
+              "(2017) Check with local Chabad for accommodation recommendations"
+            ],
+            "activities": [
+              "(2018) Vatican City nearby",
+              "Random 79 Jacobs: Jewish historical sites in Italy",
+              "Miriam SCC: Vatican City nearby",
+              "Explore Jewish historical sites in Rome, such as the Great Synagogue",
+              "Visit iconic landmarks like the Colosseum and Vatican City",
+              "Miriam SCC: Jewish historical sites in Rome",
+              "Visit the Vatican City for a religious and historical tour",
+              "Explore Jewish historical sites in Rome to delve into the rich cultural heritage",
+              "(2018) () Visit Vatican City nearby",
+              "(2018) - Jewish historical sites in Rome",
+              "Vatican City nearby",
+              "(2018) Jewish historical sites in Rome",
+              "Brody H: Explore Jewish historical sites in Rome",
+              "Random 79 Jacobs: Vatican City nearby for visit",
+              "(2018) () Explore Jewish historical sites in Rome",
+              "(2022) Vatican City nearby",
+              "(2022) Jewish historical sites in Rome",
+              "Jewish historical sites in Rome: Visit the Great Synagogue of Rome, the Jewish Ghetto, and other significant Jewish landmarks",
+              "Vatican City nearby: Explore the smallest independent state in the world, home to St. Peter's Basilica and the Sistine Chapel",
+              "No specific activities recommendations mentioned",
+              "(2016) Vatican City nearby",
+              "Visit Vatican City, located nearby, for a unique religious and historical experience",
+              "Drebin Moshe: Vatican City nearby",
+              "Explore the Jewish historical sites in Rome",
+              "Explore Jewish historical sites in Rome, including the Great Synagogue and Jewish Ghetto",
+              "Explore Jewish historical sites in Rome",
+              "(2017) Jewish historical sites in Rome",
+              "Jewish historical sites in Rome",
+              "(2018) - Vatican City nearby",
+              "(2016) Jewish historical sites in Rome",
+              "Blumenfrucht L: Kaaterskill Falls pretty basic hike If you want a solid hike try Mohawk it’s near ellenville",
+              "Explore the Jewish Ghetto in Rome for historical insights and cultural experiences",
+              "Drebin Moshe: Jewish historical sites in Rome",
+              "Stern Z: Explore Jewish historical sites in Rome",
+              "(2017) Vatican City nearby",
+              "Visit Vatican City nearby",
+              "Visit Vatican City located nearby for a cultural experience"
+            ],
+            "other": [
+              "Contact Chabad of Rome for the latest updates on kosher food establishments",
+              "(2018) Contact Chabad of Rome for current kosher food status",
+              "(2022) () Use KosherQuest.org for reliable kosher information",
+              "Random 80: Contact Chabad of Rome for current kosher food status",
+              "For reliable kosher information, refer to KosherQuest.org",
+              "Check ItalyKosherList.com for information on kosher products in Italy",
+              "Stay updated on kosher food availability by contacting Chabad of Rome directly",
+              "Contact Chabad of Rome for current kosher food status",
+              "(2018) () Use KosherQuest.org for reliable kosher information",
+              "Check with Chabad of Rome for current kosher food status",
+              "Contact Chabad of Rome for current kosher food options",
+              "Check with local Chabad for kosher food recommendations in Rome",
+              "Use KosherQuest.org for reliable kosher details",
+              "Brody H: Use KosherQuest.org for reliable kosher information",
+              "Miriam SCC: Use KosherQuest.org for reliable kosher information",
+              "Check with local sources for updated information on kosher restaurants and Shabbat meal options in Rome",
+              "Stern Z: Use KosherQuest.org for reliable kosher information",
+              "Stay updated on kosher food availability by contacting Chabad of Rome",
+              "Stern Z: Contact Chabad of Rome for current kosher food status",
+              "(2016) Use KosherQuest.org for reliable kosher information",
+              "Thank you message received",
+              "For reliable kosher information, refer to websites like KosherQuest.org",
+              "(6774) +1 (718) 354-6774: Kosher Mykonos.vcf (file attached)",
+              "(2018) () Contact Chabad of Rome for current kosher food status",
+              "(2018) - Use KosherQuest.org for reliable kosher information",
+              "(2017) Use KosherQuest.org for reliable kosher information",
+              "(2017) Contact Chabad of Rome for current kosher food status",
+              "Stay updated on kosher food options by contacting Chabad of Rome",
+              "Random 80: Use KosherQuest.org for reliable kosher information",
+              "Verify hechsherim with local sources or Chabad in Italy",
+              "Brody H: Contact Chabad of Rome for current kosher food status",
+              "Use KosherQuest.org for reliable kosher information",
+              "Miriam SCC: Contact Chabad of Rome for current kosher food status",
+              "Benjamin M: Thanx",
+              "Use KosherQuest.org for reliable kosher information in Italy",
+              "(2016) Contact Chabad of Rome for current kosher food status",
+              "Drebin Moshe: Use KosherQuest.org for reliable kosher information",
+              "(2022) Use KosherQuest.org for reliable kosher information",
+              "Contact Chabad of Rome for up-to-date kosher food information",
+              "(2018) Use KosherQuest.org for reliable kosher information",
+              "For kosher dining, visit Banyan Tree Restaurant with KMD hechsher",
+              "(2024) (2024) Chabad of Athens offers a nice delivery option",
+              "Utilize KosherQuest.org for reliable kosher information",
+              "(2018) - Contact Chabad of Rome for current kosher food status",
+              "(2022) () Contact Chabad of Rome for current kosher food status",
+              "Use KosherQuest.org for reliable information on kosher facilities in Italy",
+              "Use resources like KosherQuest.org for reliable kosher information",
+              "(2022) Contact Chabad of Rome for current kosher food status",
+              "Use KosherQuest.org for reliable kosher information in Rome",
+              "Drebin Moshe: Contact Chabad of Rome for current kosher food status",
+              "Dani — YeahThatsKosher: Use KosherQuest.org for reliable kosher information in Italy",
+              "Check with Chabad for current kosher food options in Rome",
+              "Contact Chabad of Rome for current kosher food arrangements"
+            ]
+          },
+          "Milan": {
+            "name": "Milan",
+            "kosherFood": [
+              "Kosher stores available in Milan for pre-packaged food",
+              "Kosher restaurants and cafes in Milan",
+              "Contact local Chabad in Milan for kosher food recommendations and availability",
+              "Discover kosher dining options in Milan, providing a culinary experience for kosher travelers",
+              "Kosher restaurants and stores available in Milan, recommended to check with Chabad for current options",
+              "Options include Dairy My Kafè, Carmel by Lolita srl (pasta, pizza), Tuv Taam (bakery), Denzel, Ba Ghetto Milano",
+              "Contact for private tour guide/chauffeur around Milan available upon request",
+              "Check for additional hechsherim on products like the blue Bartenura",
+              "(2018) () Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Kosher Sushi Spot available in Milan",
+              "No specific kosher food recommendations mentioned",
+              "Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Chabad of Milan offers kosher food services",
+              "Kosher food available near the Carmel restaurant in Milan",
+              "Kosher grocery stores for fresh products",
+              "Kosher dining options in Milan",
+              "Kosher restaurants available in Milan with dairy and meat options",
+              "Kosher restaurants and food options available in Milan, recommended to check with local Chabad for specific recommendations",
+              "Check with local sources for updated kosher food options",
+              "Kosher restaurants available in Milan, check Chabad for recommendations",
+              "Kosher B&B available in Milan"
+            ],
+            "minyanim": [
+              "Minyanim at Chabad of Milan",
+              "Chabad of Milan available for services",
+              "Join minyanim in Milan for prayer services and religious gatherings",
+              "Check with local community for minyanim options",
+              "Synagogues in Milan area for minyanim",
+              "Multiple synagogues in Milan area",
+              "Synagogue in the city center",
+              "Synagogues in Milan for daily prayers",
+              "Synagogues in Milan area for prayer services",
+              "No specific information about minyanim in Milan",
+              "Concentrated Jewish area near Carmel restaurant",
+              "No specific minyanim recommendations mentioned",
+              "Minyanim available in Milan",
+              "Multiple synagogues and kosher establishments in Milan area",
+              "Chabad of Milan available for minyanim",
+              "(2018) () Synagogue in Milan for minyanim",
+              "Synagogues in Milan for prayer services",
+              "Chabad of Milan provides minyanim and Shabbat services"
+            ],
+            "accommodations": [
+              "Check with Chabad in Milan for recommended accommodations",
+              "Hotels and apartments in Milan",
+              "(2018) () Check with local synagogue for accommodation recommendations",
+              "Various hotels and accommodations in Milan",
+              "Mandarin Oriental for higher-end accommodation options",
+              "Check with local resources for recommended places to stay",
+              "Various accommodation options in Milan",
+              "Hotels in Milan with kosher meal options",
+              "No specific accommodations recommendations mentioned",
+              "Consider accommodations near Jewish community centers",
+              "Various hotels available in Milan",
+              "Check with local Chabad for accommodation suggestions",
+              "Various hotels in Milan cater to kosher travelers, offering comfortable stays with kosher amenities",
+              "Nicer hotel options available within a short drive from Chabad of Milan",
+              "(2018) () Various hotels available in Milan",
+              "Various hotels available in Milan, check with local resources for recommendations",
+              "Check with local resources for specific recommendations",
+              "Check with local Chabad for accommodation recommendations",
+              "Various hotels and apartment rentals in Milan, including options near Jewish community areas",
+              "Consider staying in hotels closer to the city center and train station for convenience",
+              "Westin Milan Palace recommended near city center"
+            ],
+            "activities": [
+              "Visit the famous Duomo di Milano",
+              "Explore the historic Jewish sites in Milan",
+              "Explore the fashion district in Milan",
+              "Visit attractions like Galleria Vittrio Emanuele II, Milan Cathedral, and Sforzesco Castle",
+              "Explore Jewish historical sites in Milan",
+              "Shopping in the fashion capital of Milan",
+              "Explore the Jewish heritage sites in Milan",
+              "Visit 3D art museum in Milan",
+              "Shopping in the fashion capital of Italy",
+              "(2018) () Explore the fashion district in Milan",
+              "Explore the vibrant city of Milan while enjoying kosher food options available in the area",
+              "Visit the iconic Duomo di Milano cathedral",
+              "Great shopping opportunities in Milan",
+              "Loved Lake Como and taking the boat over to Bellagio",
+              "Visit historical sites in Milan",
+              "Explore the city center by walking or using bikes, Uber, or public transport",
+              "No specific activities mentioned for Milan",
+              "Explore the fashion district",
+              "Visit local attractions and landmarks in Milan",
+              "Shopping on Via Eustachi for kosher products",
+              "(2018) () Visit the iconic Duomo di Milano",
+              "Attend Muay Thai boxing match in Milan",
+              "Explore Galleria Vittrio Emanuele II, Milan Cathedral, and Sforzesco Castle",
+              "Explore Lake Como area for summer programs",
+              "Enjoy the cultural attractions and shopping in the city center",
+              "No specific activities recommendations mentioned",
+              "Enjoy a walk through the city center and quaint blocks",
+              "Visit the Leonardo da Vinci National Museum of Science and Technology"
+            ],
+            "other": [
+              "Contact local resources for specific kosher establishments in Milan",
+              "Explore the Quadrilatero della Moda for luxury shopping",
+              "Check Chabad for updated kosher food options in Milan",
+              "Check with Chabad of Milan for Shabbat hospitality options",
+              "For reliable kosher information, refer to KosherQuest.org",
+              "Consider spending more time in other Italian cities for a diverse experience",
+              "Contact Chabad of Milan for current kosher food status",
+              "Check Carmel for kosher food options in Milan",
+              "Be cautious of pickpocketing in Milan",
+              "Contact local resources for more information on Milan attractions",
+              "Ensure to verify current kosher food status with Chabad in Milan",
+              "Use KosherItaly.com for kosher travel tips",
+              "Use KosherQuest.org for reliable kosher information",
+              "Stay vigilant against pick-pocketing incidents",
+              "Stay updated on coronavirus situation in Milan for travel planning",
+              "Check with Chabad of Milan for current kosher food options",
+              "No additional information provided for Milan",
+              "Explore not-so-touristy attractions in Milan",
+              "(2018) () Enjoy a traditional Italian espresso in Milan",
+              "(2018) () Contact local synagogue for current kosher food options",
+              "Refer to the Chabad site for updated kosher dining recommendations",
+              "Explore the fashion district and historical landmarks in Milan",
+              "Poll for minyan hookup in Milan, recommend contacting voters for potential minyan assembly",
+              "Stay informed about kosher food establishments in Milan by checking with local resources",
+              "Use bikes, Uber, or public transport for easy navigation in Milan",
+              "(2024) - Kosher B&B in Milan available, check attached file for details",
+              "Use the provided Google Maps link for a list of kosher restaurants in Milan",
+              "Contact Chabad of Milan for information on minyanim and kosher facilities",
+              "Use KosherQuest.org for kosher travel guidance"
+            ]
+          },
+          "Florence": {
+            "name": "Florence",
+            "kosherFood": [
+              "Chabad in Florence offers kosher options",
+              "Check out Capri Kosher Italy for kosher dining options in Capri",
+              "Kosher options available, check with local Chabad for recommendations",
+              "Eisenstein A: Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Eisenstein A: Kosher stores available in Florence for pre-packaged food",
+              "Check Italy Kosher Union website for kosher food list in Florence",
+              "Check with Chabad in Florence for kosher restaurant recommendations",
+              "Kosher restaurant and Chabad available in Florence",
+              "No specific kosher food recommendations mentioned"
+            ],
+            "minyanim": [
+              "Synagogue in Florence area for prayer services",
+              "Access the old shuls in Florence by walking in, no active minyan",
+              "Eisenstein A: Chabad of Florence available for minyanim",
+              "Eisenstein A: Multiple synagogues in Florence area",
+              "Great Synagogue in Florence for visits and tickets purchase",
+              "Chabad of Florence offers minyanim",
+              "Chabad in Florence available for minyanim",
+              "No specific minyanim recommendations mentioned"
+            ],
+            "accommodations": [
+              "Central train station in Florence for luggage storage",
+              "Eisenstein A: Various hotels available in Florence",
+              "Various hotels and accommodations in Florence",
+              "Contact local Chabad or kosher establishments for accommodation recommendations",
+              "No specific accommodations recommendations mentioned",
+              "Eisenstein A: Check with local Chabad for accommodation recommendations",
+              "Check with local Chabad for accommodation suggestions",
+              "(2023) , 12:59 PM - Check with local Chabad for accommodation recommendations in Florence",
+              "Various hotels available in Florence"
+            ],
+            "activities": [
+              "Explore the beautiful Tuscany region for a full itinerary",
+              "Explore the old shuls in Florence, access via Jewish Museum Tour in the Ghetto",
+              "Visit Palazzo Vecchio, Uffizi Gallery, Ponte Vecchio, Michelangelo Plaza",
+              "Visit Palazzo Vecchio, Leather Market, Uffizi Gallery with David Statue, Ponte Vecchio bridge, Michelangelo Plaza, and the Great Synagogue",
+              "Bike or scooter around Florence, weather permitting",
+              "Enjoy the ancient Italian architecture throughout the city",
+              "Explore the Jewish quarter in Florence",
+              "Eisenstein A: Museums and art galleries to explore",
+              "Bike or scooter tour around Florence",
+              "Explore the Great Synagogue and local markets in Florence",
+              "No specific activities recommendations mentioned",
+              "Eisenstein A: Jewish historical sites in Florence",
+              "Visit historical sites and museums"
+            ],
+            "other": [
+              "Eisenstein A: Use KosherQuest.org for reliable kosher information",
+              "Contact Chabad of Florence for up-to-date kosher food information",
+              "Florence offers ancient Italian architecture and storybook-like atmosphere",
+              "Explore ItalyKosherUnion website for kosher food list in Florence",
+              "Enjoy the local Italian cuisine with kosher options",
+              "Use the guard booth in the front corner to enter the shuls in Florence",
+              "Inquire about new kosher restaurants in Capri for more dining choices",
+              "Use EconomyCarRentals.com for car rentals in Italy, consider pickup in Florence and drop off in Venice",
+              "Poll for minyan hookup in Florence, recommend contacting voters for potential minyan assembly",
+              "Purchase synagogue tickets at the door in Florence",
+              "Eisenstein A: Contact Chabad of Florence for current kosher food status"
+            ]
+          },
+          "Venice": {
+            "name": "Venice",
+            "kosherFood": [
+              "(2023) () Kosher supermarket downstairs and a few kosher places within a block away",
+              "Kosher food options available in Venice, offering a variety of dining choices for visitors",
+              "Gam Gam in Venice offers takeout for Shabbos",
+              "Kosher restaurants available, check with Chabad for recommendations",
+              "Kosher food options available in Venice, recommend checking with local Chabad for specific details",
+              "Check with Chabad of Venice for kosher restaurant recommendations",
+              "(2018) () Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "No specific kosher food recommendations mentioned",
+              "Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Chabad of Venice provides kosher food options",
+              "Kosher restaurants in Venice include Gam Gam and Baghetto",
+              "Contact Chabad Venice, Italy for kosher food options",
+              "Limited kosher dining options in Venice, plan ahead",
+              "Kosher gelato not available in Venice, try Rome for kosher gelato",
+              "Main kosher restaurants in Venice include Gam Gam, Gam Gam Goodies, and Ghimmel Garden (check hechsher)",
+              "Kosher restaurants available in Venice",
+              "Check Italy Kosher Union website for kosher food list in Venice",
+              "Pre-packaged kosher food options in local stores",
+              "No specific kosher restaurants mentioned, but Venice has kosher stores for pre-packaged food",
+              "(2023) () NH Collection Venezia Grand Hotel Dei Dogi in Venice offers kosher-friendly options",
+              "Kosher restaurants in Venice serving traditional Jewish-Italian dishes",
+              "Owned by Chabad in Venice"
+            ],
+            "minyanim": [
+              "Chabad of Venice available for minyanim",
+              "Check with Rami Banin at Chabad Venice for minyan information",
+              "Prayer services take place in a smaller Chabad style shul",
+              "Chabad of Venice available",
+              "(2018) () Synagogue in Venice for minyanim",
+              "Chabad of Venice offers minyanim",
+              "Check with local Chabad for minyanim in Venice",
+              "Opportunities for minyanim in Venice to fulfill religious obligations while traveling",
+              "Access the shuls in Venice on Shabbos or via the Jewish Museum Tour in the Ghetto",
+              "Synagogue options for prayers",
+              "Prague has a Shabbos hotel with meals and minyanim in-house, at a very fair price.",
+              "No specific minyanim recommendations mentioned",
+              "No information available on minyanim in Venice",
+              "Contact local Jewish community for minyan schedule",
+              "Check Chabad website or contact for shacharis times in Venice",
+              "Visit Jewish museum of Venice for more information",
+              "Synagogue in the Jewish Ghetto area",
+              "Synagogues in Venice for prayer services",
+              "Synagogue in Venice with prayer services",
+              "Synagogues in the Venetian Ghetto for prayers",
+              "Minyanim available in Venice, contact Chabad for prayer times and locations",
+              "Minyanim at Chabad of Venice"
+            ],
+            "accommodations": [
+              "Consider staying at Carnival Palace or NH Collection Venezia Grand Hotel Palazzo dei Dogi in Venice",
+              "Various hotels available in Venice",
+              "Kosher hotel recommendations available in North of Rome",
+              "(2018) () Check with local synagogue for accommodation recommendations",
+              "Consider staying in kosher-friendly accommodations in Venice for a hassle-free experience",
+              "Check with local Chabad for accommodation recommendations in Venice",
+              "Hotels and apartments available in Venice",
+              "No specific accommodations recommendations mentioned",
+              "Consider staying near the Jewish Ghetto for convenience",
+              "Hotels in Venice with kosher-friendly options",
+              "Airbnb studio apartment with oven/Blech recommended for kosher travelers in Venice",
+              "Recommendations on hotels in Venice near or in the Jewish ghetto available, inquire for details",
+              "Various hotels and accommodations in Venice, consider checking with Chabad for recommendations",
+              "Consider staying in Venice for Shabbos",
+              "Boutique hotels and guesthouses available in Venice",
+              "Various accommodation options available in Venice",
+              "Consider staying in the Jewish Ghetto area for convenience",
+              "Check with local Chabad for accommodation recommendations",
+              "(2018) () Various hotels available in Venice",
+              "(2023) () Consider Airbnb near Chabad for a comfortable stay",
+              "Hotels with kosher breakfast options in Venice"
+            ],
+            "activities": [
+              "Explore the canals, bridges, and historic landmarks of the city",
+              "(2018) () Enjoy a gondola ride through the canals",
+              "No specific activities mentioned",
+              "Gondola rides through the canals of Venice",
+              "Enjoy a Shabbat experience in the unique setting of Venice",
+              "Take a gondola ride through the canals",
+              "Gondola rides in Venice",
+              "Explore the unique charm of Venice while enjoying kosher dining options in the city",
+              "Explore the historic Jewish Ghetto in Venice",
+              "Take a gondola ride along the canals",
+              "Explore the beautiful canals and architecture of Venice",
+              "Visit historical sites and museums in Venice",
+              "Old marketplace and the Ghetto to visit",
+              "(2018) () Explore the historic Jewish Ghetto in Venice",
+              "Explore St. Mark's Square in Venice",
+              "Explore the unique Jewish history in Venice",
+              "Enjoy the beautiful canals and architecture",
+              "Consider a Jewish tour in Venice for a cultural experience",
+              "No specific activities recommendations mentioned",
+              "Explore the historic sites and canals of Venice",
+              "Explore St. Mark's Basilica and Doge's Palace",
+              "Canals to explore",
+              "Explore the unique canals and architecture of Venice"
+            ],
+            "other": [
+              "Carry kosher snacks while sightseeing in Venice",
+              "For reliable kosher information and recommendations, consider using KosherQuest.org.",
+              "Ensure to wear a KN95 mask on the plane to Italy",
+              "Check with Chabad for kosher food delivery options",
+              "No Covid test required for Venice, but check for any updated travel regulations",
+              "Look for Shabbos-friendly accommodations in Venice",
+              "Use Kosher Near Me app for kosher options in Venice and beyond",
+              "Check with Chabad of Venice for updated kosher restaurant recommendations",
+              "Use KosherQuest.org for reliable kosher information",
+              "(2018) () Visit the Jewish Museum of Venice",
+              "Seek recommendations for kosher food options in Venice",
+              "Check kosher certification of gelato shops in Venice",
+              "Check with Chabad for any updated kosher food options",
+              "Enjoy the unique atmosphere of Venice",
+              "Venice has better hechsher for kosher food",
+              "Join walking tours to discover Jewish heritage in Venice",
+              "(2018) () Contact local synagogue for current kosher food options",
+              "Contact Chabad in Venice for up-to-date kosher dining options",
+              "Poll for minyan hookup in Venice, recommend contacting voters for potential minyan assembly",
+              "Contact Chabad Rabbi of Venice for further assistance",
+              "Reach out to Chabad in Venice for kosher food options",
+              "Check with local sources for updated information on kosher food availability in Venice",
+              "Check online resources for kosher dining recommendations",
+              "Contact Chabad of Venice for current kosher food status",
+              "Contact local Chabad for updated kosher food options",
+              "Visit the Jewish Museum in Venice for cultural insights"
+            ]
+          },
+          "Stressa": {
+            "name": "Stressa",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Looking for a tour guide and transportation service in Stressa, Italy"
+            ],
+            "other": []
+          },
+          "Amalfi_Coast": {
+            "name": "Amalfi Coast",
+            "kosherFood": [
+              "Capri has a kosher hotel",
+              "Contact Chabad in Amalfi Coast for kosher food recommendations",
+              "Adler M: Just kosher restaurant in Capri"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Enjoy the beautiful coastal views and beaches of Amalfi Coast",
+              "Visit historical sites and charming towns along the coast",
+              "Reichenbach: Amalfi Coast, Milan, Venice All over"
+            ],
+            "other": [
+              "Ensure to plan ahead for kosher food options in Amalfi Coast"
+            ]
+          },
+          "Positano": {
+            "name": "Positano",
+            "kosherFood": [
+              "Capri has a kosher hotel"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Sicily": {
+            "name": "Sicily",
+            "kosherFood": [
+              "(2018) Limited kosher options in Sicily, recommend bringing own kosher food"
+            ],
+            "minyanim": [
+              "(2018) Check with local Chabad for minyanim in Sicily"
+            ],
+            "accommodations": [
+              "(2018) Consider Airbnb options for kosher accommodations",
+              "(2018) Various hotels available in Sicily"
+            ],
+            "activities": [
+              "(2018) Explore historical sites in Sicily",
+              "(2018) Enjoy the beautiful beaches along the Amalfi Coast"
+            ],
+            "other": [
+              "(2018) Visit Pompeii for a unique archaeological experience",
+              "(2018) Plan ahead for kosher meals in Sicily due to limited availability"
+            ]
+          },
+          "Northern_Italy": {
+            "name": "Northern Italy",
+            "kosherFood": [
+              "Drive to Milan for kosher restaurants"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Visit Como, Maggiore, or Lugano lakes",
+              "Sauer C: Garda Lake receives great reviews for its scenic views and activities"
+            ],
+            "other": []
+          },
+          "Lake_Garda": {
+            "name": "Lake Garda",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Visit the cool castle near Sermione",
+              "Enjoy small hiking trails, cute cow herds, and cheese stands on Mt. Baldo",
+              "Wander through the alleys and boutique pizza shops to the waterfront in Malchisene",
+              "Take a bus along the lake for a 2-hr ride to Malchisene and take the Gondola up to the peak of Mt. Baldo",
+              "Rent a speed boat on the lake if weather permits",
+              "Explore the castle in Malchisene",
+              "Experience paragliding from the top of Mt. Baldo with insane views"
+            ],
+            "other": []
+          },
+          "Zagreb": {
+            "name": "Zagreb",
+            "kosherFood": [
+              "Check with local Chabad or Jewish community in Zagreb for kosher dining options"
+            ],
+            "minyanim": [
+              "Inquire with local Jewish community for information on synagogues and minyanim in Zagreb"
+            ],
+            "accommodations": [
+              "Various hotels and accommodations available in Zagreb, consider proximity to Jewish areas"
+            ],
+            "activities": [
+              "Visit the Museum of Broken Relationships for a unique and emotional experience",
+              "Explore the historic sites and cultural attractions in Zagreb",
+              "Explore the historic Upper Town of Zagreb with its cobblestone streets and medieval architecture"
+            ],
+            "other": [
+              "Contact Chabad or local resources for up-to-date information on kosher facilities"
+            ]
+          },
+          "Naples": {
+            "name": "Naples",
+            "kosherFood": [
+              "Check with local Chabad or Jewish community for kosher food options in Naples",
+              "Check with local Chabad or Jewish community for updated kosher dining options",
+              "Check with local Chabad for updated kosher food recommendations",
+              "Kosher restaurants and stores available in Naples, including options for families with young children",
+              "Unfortunately, there doesn't seem to be kosher food available in Naples"
+            ],
+            "minyanim": [
+              "Chabad of Naples offers minyanim and Jewish community services",
+              "Inquire with local Jewish community for information on minyanim in Naples",
+              "Contact local Jewish community for minyan times",
+              "Multiple synagogues in the Naples area for prayer services",
+              "Contact Rav Yisroel Piha in Naples for minyanim",
+              "Synagogue in Naples for prayer services"
+            ],
+            "accommodations": [
+              "Various hotels available in Naples, consider proximity to Jewish areas",
+              "Various family-friendly hotels and rentals available in Naples",
+              "Various hotels available in Naples",
+              "Reach out to Chabad or Jewish organizations for accommodation suggestions",
+              "Consider contacting Chabad for accommodation suggestions"
+            ],
+            "activities": [
+              "Explore the historic sites of Naples",
+              "Explore Amalfi, Naples, and Sorrento with a good English-speaking driver",
+              "Contact Laura Driver Tour for touring options in Naples",
+              "Naples offers raw historical sites unlike anywhere else in Italy or Europe",
+              "Visit local attractions and enjoy the Mediterranean atmosphere",
+              "Enjoy the beautiful landscapes and beaches in the Naples area",
+              "Explore the historic sites and vibrant culture of Naples",
+              "Explore historical sites in Naples suitable for children of all ages",
+              "Consider hiring a solid tour guide with a car to explore the rich history of Naples",
+              "Enjoy the local cuisine while being mindful of kosher restrictions"
+            ],
+            "other": [
+              "Looking for a good English-speaking driver in Naples, Italy",
+              "Obtain necessary travel documents for Italy, including passport copies and photos",
+              "Connect with Jewish community for any updated kosher facilities in Naples",
+              "Contact local authorities for any specific requirements for traveling with young children",
+              "Consider bringing kosher travel snacks for convenience",
+              "Ensure to verify kosher certifications of any restaurants in Naples",
+              "Plan visits to synagogues or Jewish heritage sites in the area",
+              "Inquire with local contacts for Shabbat friendly accommodations in Naples"
+            ]
+          },
+          "Como": {
+            "name": "Como",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore the lakes in Como, especially Lake Como, for a super duper nice experience"
+            ],
+            "other": [
+              "Consider renting a car to fully enjoy the scenic beauty of Lake Como"
+            ]
+          },
+          "Warsaw": {
+            "name": "Warsaw",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Trieste": {
+            "name": "Trieste",
+            "kosherFood": [
+              "Buy a pass with a map and recorded tour for all the shuls in Trieste",
+              "Check out all the 'golam' stores for kosher food options"
+            ],
+            "minyanim": [
+              "Chabad of Trieste available for minyanim, contact for schedule",
+              "Contact the Rabbi of Chabad of Trieste for minyan information"
+            ],
+            "accommodations": [
+              "Check with local recommendations for accommodations in Trieste"
+            ],
+            "activities": [
+              "Explore the Jewish historical sites in Trieste"
+            ],
+            "other": [
+              "Utilize local resources for up-to-date information on kosher options",
+              "Verify kosher food availability with local sources"
+            ]
+          },
+          "Italian_Alps": {
+            "name": "Italian Alps",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "One kosher option available in the Italian Alps"
+            ]
+          },
+          "Padova": {
+            "name": "Padova",
+            "kosherFood": [],
+            "minyanim": [
+              "Chabad of Padova available for minyanim, contact for schedule"
+            ],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "St_Moritz": {
+            "name": "St Moritz",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Lake_Como": {
+            "name": "Lake Como",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Consider hiring a driver for a 2-hour drive from Arosa, Switzerland to Lake Como, Italy. This scenic route offers a picturesque journey between the two destinations."
+            ],
+            "other": []
+          },
+          "Sorrento": {
+            "name": "Sorrento",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Base yourself in Sorrento and take boat tours and ferries to explore the Amalfi area and Capri"
+            ],
+            "activities": [],
+            "other": [
+              "(2024) - Inquire about renting a car in Sorrento, Italy"
+            ]
+          },
+          "Dolomites": {
+            "name": "Dolomites",
+            "kosherFood": [],
+            "minyanim": [
+              "Kosher hotel available in Dolomites for Shabbat accommodations"
+            ],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Capri": {
+            "name": "Capri",
+            "kosherFood": [
+              "Kosher dining options available in Capri, including River Cafe for a unique culinary experience"
+            ],
+            "minyanim": [
+              "Check with local Chabad or synagogues in Capri for minyanim schedules"
+            ],
+            "accommodations": [
+              "Recommended hotels in Capri include Capri Tiberio Palace, Grand Hotel Quisisana, and Capri Palace Jumeirah"
+            ],
+            "activities": [
+              "Explore the stunning landscapes and historical sites in Capri",
+              "Looking for a private boat tour in Capri",
+              "Enjoy the luxurious amenities and beautiful views at hotels like Caesar Augustus and Punta Traga"
+            ],
+            "other": [
+              "Book accommodations in advance, especially during the summer season",
+              "Confirm the status of River Cafe for dining options in Capri"
+            ]
+          },
+          "Tuscany": {
+            "name": "Tuscany",
+            "kosherFood": [
+              "No specific kosher food recommendations mentioned"
+            ],
+            "minyanim": [
+              "No specific minyanim recommendations mentioned"
+            ],
+            "accommodations": [
+              "No specific accommodations recommendations mentioned"
+            ],
+            "activities": [
+              "Visit the kosher winery Tierra de Seta",
+              "Rent a car to explore Tuscany for flexibility",
+              "No specific activities recommendations mentioned"
+            ],
+            "other": [
+              "Poll for minyan hookup in Tuscany, recommend contacting voters for potential minyan assembly"
+            ]
+          },
+          "Mykonos": {
+            "name": "Mykonos",
+            "kosherFood": [
+              "Spira Shmily: Don’t think they're open this year."
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Cinque_Terre": {
+            "name": "Cinque Terre",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "SPAIN",
+        "overallWriteup": "",
+        "cities": {
+          "Madrid": {
+            "name": "Madrid",
+            "kosherFood": [
+              "Kosher restaurants available in Madrid, such as Miazia Restaurante Kosher and Lev Tahor",
+              "Kosher dining options available in Madrid",
+              "Chabad of Madrid offers kosher meals and catering",
+              "King Solomon Restaurant: Known for its kosher Mediterranean cuisine",
+              "Check with local Jewish community for kosher food updates",
+              "Kosher restaurants available in Madrid, such as Moshiko and Carmel",
+              "Kosher Delight offers a variety of kosher options in Madrid",
+              "Lots of kosher food available in Madrid",
+              "Kosher restaurants and markets available in Madrid",
+              "Kosher restaurants available in Madrid for authentic Spanish cuisine",
+              "Check with local Chabad for kosher dining recommendations",
+              "Check local kosher food options through Jewish community resources"
+            ],
+            "minyanim": [
+              "Synagogue of Madrid welcomes visitors for prayers",
+              "(2801) Chabad Madrid - Center Shneor Goldstein: Calle Gral. Álvarez de Castro, 30, 28010 Madrid, Spain. Contact: 3465814096+. WhatsApp: 34658140969+. Website: chabadmadrid.com/shabbat",
+              "Availability of minyanim in Madrid",
+              "Synagogues in Madrid offer daily services",
+              "Multiple synagogues in Madrid for minyanim",
+              "Chabad of Madrid provides Shabbat programs",
+              "Synagogues in Madrid for Shabbat services",
+              "Synagogues in Madrid offer daily minyanim",
+              "Multiple synagogues in Madrid area for minyanim",
+              "Chabad of Madrid available for prayer services",
+              "Chabad of Madrid provides daily minyanim",
+              "Daily minyanim at Chabad of Madrid"
+            ],
+            "accommodations": [
+              "Explore kosher apartment listings for accommodation in Madrid",
+              "Various hotels in Madrid suitable for different budgets",
+              "Various hotels and rental options in Madrid city center",
+              "Consider staying in the Jewish quarter for proximity to Jewish amenities",
+              "Various hotels in Madrid offer kosher options, such as the InterContinental Madrid",
+              "Hotels and vacation rentals in Madrid",
+              "Hotels and apartments for various budgets in Madrid",
+              "Range of hotels and apartments available in Madrid",
+              "Consider staying near Gran Via for easy access to attractions"
+            ],
+            "activities": [
+              "Explore the historic Jewish quarter in Madrid",
+              "Visit the Royal Palace of Madrid and Retiro Park",
+              "Enjoy art museums like the Prado and Reina Sofia",
+              "Visit the Prado Museum for art enthusiasts",
+              "Visit the Jewish Museum of Madrid",
+              "Explore the Prado Museum and Plaza Mayor",
+              "Visit the Prado Museum and Royal Palace",
+              "Explore the Royal Palace and Retiro Park",
+              "Discover the cultural attractions of Madrid",
+              "Discover the Jewish heritage sites in Madrid",
+              "Explore museums if interested"
+            ],
+            "other": [
+              "Refer to local Jewish community websites for updated kosher information",
+              "Utilize Jewish travel guides for Spain for comprehensive information",
+              "Check with local Chabad in Madrid for updated kosher food recommendations",
+              "Experience the vibrant nightlife and cultural heritage of Madrid",
+              "Inquire with Chabad for Shabbat meal options",
+              "Explore the local Sephardic history in Madrid",
+              "Contact local Chabad for updated kosher food recommendations",
+              "Check for kosher food options in Madrid",
+              "For more information and updates, visit chabadworld.net",
+              "Check with Kosher delight for kosher certification details",
+              "Contact Chabad of Madrid for current kosher food options",
+              "Join guided tours to learn about Jewish history in Madrid",
+              "Use KosherWhere app for convenient kosher food options",
+              "Verify kosher certification of restaurants with local authorities"
+            ]
+          },
+          "Malaga": {
+            "name": "Malaga",
+            "kosherFood": [
+              "Limited kosher dining options in Malaga",
+              "Check with Chabad for kosher food recommendations"
+            ],
+            "minyanim": [
+              "Synagogue in Malaga for Shabbat gatherings",
+              "Chabad of Malaga offers prayer services"
+            ],
+            "accommodations": [
+              "Hotels and resorts along the coast of Malaga"
+            ],
+            "activities": [
+              "Relax on the beaches of Malaga",
+              "Explore the Alcazaba fortress and Picasso Museum"
+            ],
+            "other": [
+              "Coordinate with Chabad for Shabbat hospitality",
+              "Visit the Jewish quarter in Malaga for historical insights"
+            ]
+          },
+          "Granada": {
+            "name": "Granada",
+            "kosherFood": [
+              "Chabad in Myrtle Beach has kosher fridge, freezer, and cholov Yisroel products"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Gibraltar": {
+            "name": "Gibraltar",
+            "kosherFood": [
+              "Limited kosher options available",
+              "Kosher food options available in Gibraltar, including kosher restaurants and grocery stores",
+              "Two kosher groceries, two restaurants, a bakery, and more available in Gibraltar",
+              "Check with local Chabad for up-to-date information on kosher facilities"
+            ],
+            "minyanim": [
+              "Chabad of Gibraltar offers daily minyanim and Shabbat services",
+              "Synagogues in Gibraltar welcome visitors for prayers",
+              "Check with local Jewish community for minyanim"
+            ],
+            "accommodations": [
+              "Various hotels and guesthouses in Gibraltar suitable for different budgets",
+              "Various accommodation options in Gibraltar"
+            ],
+            "activities": [
+              "Enjoy day trips to Spain from Gibraltar",
+              "Explore the Rock of Gibraltar and its stunning views",
+              "Visit historical sites like the Great Siege Tunnels and St. Michael's Cave"
+            ],
+            "other": [
+              "Gibraltar has an eruv for Shabbat",
+              "Contact Chabad of Gibraltar for kosher dining recommendations",
+              "Enjoy duty-free shopping in Gibraltar"
+            ]
+          },
+          "Seville": {
+            "name": "Seville",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Visit the Alcazar of Seville and the Seville Cathedral",
+              "Jewish tours available for cultural exploration",
+              "Explore the historic Jewish quarter of Santa Cruz"
+            ],
+            "other": [
+              "Check with local Chabad for kosher dining options in Seville",
+              "Consider a day trip to Gibraltar for a unique experience"
+            ]
+          },
+          "Marbella": {
+            "name": "Marbella",
+            "kosherFood": [
+              "Chabad Marbella available for kosher food",
+              "Chabad of Marbella offers kosher options, contact them for details",
+              "Kosher restaurants available in Marbella",
+              "No kosher food in Sardinia",
+              "Check with Chabad Rabbi for kosher food options"
+            ],
+            "minyanim": [
+              "Chabad of Marbella available for minyanim",
+              "Chabad of Costa Del Sol in Marbella available for minyanim",
+              "Contact Chabad Rabbi for minyanim information",
+              "Check with Chabad Marbella for minyan schedule"
+            ],
+            "accommodations": [
+              "Various hotels and resorts in Marbella",
+              "Various hotels and accommodations in Marbella",
+              "Elite suites recommended by travelers",
+              "Various accommodation options in Marbella, consider checking with local resources for recommendations"
+            ],
+            "activities": [
+              "Enjoy the beaches and nightlife in Marbella",
+              "Visit historical sites and museums in the area",
+              "Explore the beautiful city of Marbella",
+              "45-minute drive to Gibraltar for additional exploration",
+              "Enjoy the beaches and local attractions"
+            ],
+            "other": [
+              "Explore the Old Town of Marbella for a charming experience",
+              "For kosher travel tips in Marbella, consult local Chabad or kosher resources",
+              "Verify current kosher restaurant status with Chabad Rabbi"
+            ]
+          },
+          "Girona": {
+            "name": "Girona",
+            "kosherFood": [
+              "Katz Sharon: Looking for a guide in Girona Spain for a Jewish Tour"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Check out Kosher hotels in France for potential options in Girona area"
+            ]
+          },
+          "Palma_de_Mallorca": {
+            "name": "Palma de Mallorca",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Andalusia": {
+            "name": "Andalusia",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore Andalusia in Spain for a mix of nature, culture, and history"
+            ],
+            "other": []
+          },
+          "Cordoba": {
+            "name": "Cordoba",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Jewish tours available for cultural exploration"
+            ],
+            "other": []
+          },
+          "Valencia": {
+            "name": "Valencia",
+            "kosherFood": [
+              "Kosher food options available in Valencia, check with local Chabad for recommendations",
+              "Chabad of Valencia in Spain offers kosher dining options, contact them for details"
+            ],
+            "minyanim": [
+              "Minyanim available at Chabad of Valencia"
+            ],
+            "accommodations": [
+              "Various accommodation options in Valencia, consider proximity to Chabad for convenience",
+              "Various accommodation options in Valencia, ranging from hotels to vacation rentals"
+            ],
+            "activities": [
+              "Enjoy the beautiful beaches in the area",
+              "Relax on the beaches of Valencia",
+              "Explore the cultural and historical sites of Valencia",
+              "Explore the City of Arts and Sciences in Valencia"
+            ],
+            "other": [
+              "Check with Chabad of Valencia for current kosher food recommendations",
+              "Contact Chabad of Valencia for up-to-date kosher food information",
+              "Enjoy the vibrant atmosphere and cultural attractions in Valencia",
+              "Check with Chabad for any specific events or programs during your visit"
+            ]
+          },
+          "Ibiza": {
+            "name": "Ibiza",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Consider accommodations close to Chabad of Ibiza for easy access to kosher facilities"
+            ],
+            "activities": [
+              "Experience the vibrant nightlife and beautiful beaches of Ibiza",
+              "Visit historical sites and enjoy water activities on the island"
+            ],
+            "other": [
+              "Check with Chabad for any special events or services during your stay",
+              "Reach out to Chabad of Ibiza for current kosher food options"
+            ]
+          }
+        }
+      },
+      {
+        "name": "CYPRUS",
+        "overallWriteup": "",
+        "cities": {
+          "Ayia_Napa": {
+            "name": "Ayia Napa",
+            "kosherFood": [
+              "Chabad in Ayia Napa provides kosher meals",
+              "Schwab D: Check for kosher food options in Ayia Napa, Cyprus",
+              "Beanz restaurant recommended by some kashrus masgichim"
+            ],
+            "minyanim": [
+              "(6409) Chabad rabbi available, contact: +357 96 640980"
+            ],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Consider checking with local Chabad or Jewish community for additional kosher options",
+              "Chabad Cyprus website lists kosher food options without a hechsher",
+              "Kosher fleishig and milchig restaurant available in Larnaca year-round"
+            ]
+          },
+          "Limassol": {
+            "name": "Limassol",
+            "kosherFood": [
+              "Delivery available from Athens (gostijo) in the Greek Islands",
+              "Chabad in Limassol offers meals for visitors",
+              "Chabad presence in Limassol",
+              "Chabad in Limassol offers kosher meals",
+              "Kosher meal arrangements possible through local Chabad if requested in advance",
+              "Kosher options available in Limassol",
+              "(2017) Very good kosher food options in Limassol",
+              "Kosher meals available at Chabad in Limassol",
+              "(2017) Kosher meals available at Chabad in Limassol"
+            ],
+            "minyanim": [
+              "(2017) Multiple synagogues in Limassol area",
+              "Chabad in Limassol for minyanim",
+              "Minyanim available at Chabad in Limassol",
+              "Chabad in Limassol and Larnaca have minyanim",
+              "Minyanim at Chabad in Limassol",
+              "(2017) Chabad in Limassol offers minyanim"
+            ],
+            "accommodations": [
+              "Various hotels in Limassol",
+              "Accommodation recommendations in Limassol",
+              "Check with Chabad in Limassol for accommodation recommendations",
+              "(2017) Various hotels in Limassol"
+            ],
+            "activities": [
+              "Explore the beautiful city of Limassol",
+              "Explore the city of Limassol",
+              "(2017) Enjoy delicious kosher meals at Chabad in Limassol",
+              "(2017) Explore the city of Limassol",
+              "Enjoy the coastal city of Limassol",
+              "Explore the Jewish community in Limassol and Larnaca",
+              "Explore the Old City of Limassol and Promenade"
+            ],
+            "other": [
+              "Check with Chabad in Limassol for kosher food options",
+              "(2017) Contact Chabad in Limassol for current kosher food availability",
+              "Contact Chabad in Limassol for kosher food availability",
+              "Check ChabadCyprus.com for more information",
+              "Visit chabadcyprus.com for more information",
+              "Enjoy the seaside views and activities in Limassol"
+            ]
+          },
+          "Larnaca": {
+            "name": "Larnaca",
+            "kosherFood": [
+              "Enjoy Israeli style food at Chabad in Larnaca",
+              "Kosher food options available in Larnaca/Ayia Napa area with Chabad presence",
+              "Check with local Chabad for kosher dining options",
+              "Check with local Chabad for kosher meal arrangements",
+              "Main Chabad center in Larnaca for kosher food options",
+              "Kosher restaurant available in Chabad in Aya Napa",
+              "Chabad nearby for kosher options",
+              "(2018) Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "(2018) Kosher stores available in Larnaca, Venice, and Milan for pre-packaged food",
+              "Chabad in Larnaca provides kosher meals with Israeli-style food",
+              "Chabad presence in Larnaca",
+              "Kosher food available at Chabad in Larnaca",
+              "Kosher food delivery available in Larnaca",
+              "Check with local community for kosher food options",
+              "Delivery available from Athens (gostijo) in the Greek Islands"
+            ],
+            "minyanim": [
+              "Chabad in Larnaca and Limassol have minyanim",
+              "Chabad in Larnaca offers daily minyanim",
+              "(2017) , 10:51 AM - Larnaca has daily minyanim at Chabad",
+              "Minyanim available at Chabad in Larnaca",
+              "Kadoori shul in Larnaca",
+              "Chabad available in Larnaca with daily minyanim",
+              "Daily minyanim available at Chabad in Larnaca",
+              "Chabad in Larnaca for minyanim",
+              "(6409) Chabad rabbi in Ayia Napa Cyprus available, contact: +357 96 640980",
+              "Main Chabad presence in Larnaca/Ayia Napa area",
+              "Daily minyanim at Chabad in Larnaca",
+              "Chabad available for Shabbat services",
+              "(2018) Multiple synagogues in Larnaca area",
+              "(2018) Chabad of Larnaca available for minyanim"
+            ],
+            "accommodations": [
+              "Check with Chabad in Larnaca for accommodation recommendations",
+              "Check reviews for Josephine Hotel in Larnaca",
+              "Various hotels in Larnaca",
+              "Accommodation options in Larnaca/Ayia Napa area",
+              "Consider staying near the Chabad for convenience",
+              "Various accommodation options available",
+              "Check with local Chabad for accommodation recommendations",
+              "(2018) Various hotels available in Larnaca",
+              "Consider staying at Qbic City Hotel in Larnaca",
+              "Various accommodation options in Larnaca",
+              "Various hotels available in Larnaca",
+              "(2018) Check with local Chabad for accommodation recommendations",
+              "Various hotels and accommodations in Larnaca"
+            ],
+            "activities": [
+              "Enjoy the beaches in Larnaca",
+              "Explore Aya Napa for ATV/Buggy rentals and scuba diving",
+              "Experience the lively atmosphere of Downtown Aya Napa",
+              "Explore the Old City of Limassol and Promenade",
+              "Enjoy large Shabbos meals at Chabad in Larnaca",
+              "(2018) Jewish historical sites in Larnaca",
+              "(2018) Aya Napa recommended for activities",
+              "Visit the Hala Sultan Tekke mosque",
+              "Explore the city of Larnaca",
+              "Enjoy water sports and scuba diving in Larnaca",
+              "Enjoy water sports and scuba diving in Aya Napa",
+              "Visit Larnaca Salt Lake and promenade",
+              "Explore the Jewish community in Larnaca and Limassol",
+              "Scuba diving opportunities near Larnaca/Ayia Napa",
+              "Explore Larnaca Salt Lake and promenade",
+              "Experience the vibrant city of Larnaca",
+              "Visit Larnaca Salt Lake and its cool scenery",
+              "Explore the coastal city of Larnaca"
+            ],
+            "other": [
+              "Reserve Shabbos meals with Rabbi Raskin in Larnaca",
+              "Contact Kadoori shul for more information",
+              "Contact Chabad in Larnaca for kosher food availability",
+              "Reserve in advance for Shabbos meals at Chabad in Larnaca",
+              "Check with local community for Shabbat accommodations",
+              "Inquire with local recommendations or hotels for driver/taxi services in Larnaca, Cyprus.",
+              "Kosher restaurant in Aya Napa",
+              "Chabad available in Larnaca, Aya Napa, Paphos, and Limassol",
+              "For Shabbos in Cyprus, consider staying in Larnaca/Ayia Napa area for convenience",
+              "(2018) Use KosherQuest.org for reliable kosher information",
+              "Yanky Bennish: Yes it's fine",
+              "Check Citron Rose Tavern website for updated kosher information",
+              "Contact Chabad for local recommendations and kosher food options",
+              "Check with Chabad in Larnaca for kosher food options",
+              "(2018) Contact Chabad of Larnaca for current kosher food status",
+              "Chabad present in major cities of Cyprus",
+              "Chabad centers in other cities like Paphos, Limassol, and Aya Napa",
+              "Contact local Chabads for kosher food options"
+            ]
+          },
+          "Aya_Napa": {
+            "name": "Aya Napa",
+            "kosherFood": [
+              "Chabad in Aya Napa offers kosher meals with a restaurant-style dining room and professional chef",
+              "Check with Chabad for kosher food options in Aya Napa",
+              "Chabad presence in Aya Napa",
+              "Kosher restaurant available in Chabad in Aya Napa",
+              "Kosher restaurant available in Aya Napa",
+              "(2018) Chabad in Aya Napa offers kosher food for Shabbos",
+              "Delivery available from Athens (gostijo) in the Greek Islands",
+              "Restaurant-style dining available at Chabad in Aya Napa",
+              "Chabad available in Aya Napa for kosher options"
+            ],
+            "minyanim": [
+              "Check with Chabad in Aya Napa for minyan schedules",
+              "Chabad in Aya Napa for minyanim",
+              "Minyanim available at Chabad in Aya Napa",
+              "Explore other synagogues in the area for prayer services"
+            ],
+            "accommodations": [
+              "Check with Chabad in Aya Napa for accommodation recommendations",
+              "Accommodation options in Aya Napa and surrounding areas",
+              "Various hotels in Aya Napa",
+              "Consider proximity to Chabad for convenience",
+              "Accommodation options in Aya Napa for travelers"
+            ],
+            "activities": [
+              "Scuba diving opportunities in Aya Napa",
+              "Scuba diving opportunities in the area",
+              "(2018) Aya Napa recommended for activities",
+              "Enjoy the vibrant town of Aya Napa",
+              "Experience the dining options at Chabad in Aya Napa",
+              "Explore the coastal town of Aya Napa",
+              "ATV and Buggy rentals in Aya Napa"
+            ],
+            "other": [
+              "Explore Cape Greco for sea wall jumping and water caves",
+              "Cape Greco offers sea wall jumping and water caves",
+              "Vibrant nightlife in Downtown Aya Napa",
+              "Chabad Aya Napa has a professional chef on site",
+              "Enjoy the lively nightlife in Downtown Aya Napa",
+              "Check with Chabad in Aya Napa for kosher food options"
+            ]
+          },
+          "Paphos": {
+            "name": "Paphos",
+            "kosherFood": [
+              "Newly opened Chabad center in Paphos",
+              "Check for kosher food options in Paphos",
+              "Cyprus Chabad in Paphos has a fleishig restaurant",
+              "Check for current kosher status of restaurants in Paphos",
+              "Chabad nearby in Paphos",
+              "Chabad nearby for kosher options",
+              "Kosher options available at Chabad in Paphos",
+              "Kosher meal arrangements possible through local Chabad if requested in advance",
+              "Levy Random: Hilton Al Harbatoor serves kosher",
+              "Delivery available from Athens (gostijo) in the Greek Islands",
+              "Chabad presence in Paphos",
+              "Chabad in Paphos offers kosher meals"
+            ],
+            "minyanim": [
+              "Chabad in Paphos for minyanim",
+              "Inquire about synagogues or minyanim in Paphos",
+              "Minyanim available at Chabad in Paphos",
+              "Blue Lagoon Kosher Hotel in Paphos offers minyanim services",
+              "Chabad available in Larnaca with daily minyanim"
+            ],
+            "accommodations": [
+              "Check out hotels like Elysium Hotel or Almyra Hotel in Paphos with private pools near Chabad",
+              "Accommodation options in Paphos for visitors",
+              "Stay at Blue Lagoon Kosher Hotel for kosher accommodations in Paphos",
+              "Check with local Chabad for accommodation recommendations",
+              "Explore other lodging options in Paphos for kosher travelers",
+              "Check with Chabad in Paphos for accommodation recommendations",
+              "Various hotels available in Paphos",
+              "Various hotels in Paphos"
+            ],
+            "activities": [
+              "Explore scenic cliffs and ruins in Paphos",
+              "Discover Cape Greco for sea wall jumping and water caves",
+              "Visit historical sites like Tomb of the Kings in Paphos",
+              "Explore mummy caves in Paphos",
+              "Swim at Aya Napa and enjoy ATV/Buggy rentals and scuba diving",
+              "Explore the city of Paphos",
+              "Explore the historical sites in Paphos",
+              "(2017) , 10:51 AM - Beautiful spots in Paphos: Edro III Shipwreck with sea caves, Coral Bay, Tomb of the Kings with old mummy caves, Aphrodite Beach for quiet spots",
+              "Explore the beautiful city of Paphos",
+              "Relax at Aphrodite Beach with its quiet spots",
+              "Explore Edro III Shipwreck and sea caves",
+              "Visit the Tombs of the Kings in Paphos",
+              "Discover the historic city of Paphos",
+              "Visit Coral Bay and Tomb of the Kings for historical sites",
+              "Enjoy the spa facilities at Blue Lagoon Kosher Hotel",
+              "Explore the Edro III Shipwreck and sea caves"
+            ],
+            "other": [
+              "Chabad present in major cities of Cyprus",
+              "Contact Chabad in Paphos for kosher dining options",
+              "Check out Edro III Shipwreck and Coral Bay in Paphos",
+              "Chabad available in major cities of Cyprus",
+              "Check Citron Rose Tavern website for updated kosher information",
+              "(3096) +1 (732) 366-3096: Hotel recommendations in Paphos",
+              "Verify the current hashgacha status of kosher establishments in Paphos",
+              "Contact Chabad in Paphos for kosher dining details",
+              "Check with Cyprus Chabad for current kosher food availability",
+              "Check with Chabad in Paphos for kosher food options",
+              "Use Trip Savvy and other travel websites for planning kosher trips to Cyprus"
+            ]
+          },
+          "Nicosia": {
+            "name": "Nicosia",
+            "kosherFood": [
+              "Kosher meals available at Chabad in Nicosia",
+              "Chabad in Nicosia provides kosher meals for travelers",
+              "Check with local Chabad in Nicosia for kosher food options",
+              "Kosher options available in Cyprus, check Chabad Cyprus website for more information",
+              "Check with local Chabad for kosher restaurant recommendations",
+              "(2017) Kosher food available at Chabad in Nicosia",
+              "Kosher restaurant in Nicosia offering traditional Cypriot dishes with a kosher twist",
+              "Kosher food options available in Nicosia",
+              "Chabad in Nicosia offers kosher meals"
+            ],
+            "minyanim": [
+              "Chabad of Cyprus available for minyanim",
+              "(2017) Chabad in Nicosia available for minyanim",
+              "Minyanim available at Chabad in Nicosia",
+              "Regular minyanim at Chabad of Nicosia",
+              "Multiple synagogues in Nicosia area for minyanim",
+              "Synagogue in the Jewish Quarter of Nicosia",
+              "Contact local Jewish community for minyan times",
+              "(2017) Synagogue options in Nicosia",
+              "Synagogues in Nicosia area"
+            ],
+            "accommodations": [
+              "Various hotels and resorts available in Nicosia",
+              "(2017) Various hotels in Nicosia",
+              "Check with Chabad in Nicosia for accommodation recommendations",
+              "Consider staying in the city center for easy access to amenities",
+              "Hotels in Nicosia with kosher-friendly options",
+              "Various hotels and accommodations in Nicosia",
+              "Airbnb listings in Nicosia suitable for kosher observant travelers",
+              "(2017) Check with local Chabad for accommodation recommendations"
+            ],
+            "activities": [
+              "Explore the historic Old City of Nicosia",
+              "Explore the historic Jewish Quarter in Nicosia",
+              "Visit the Cyprus Museum for Jewish artifacts",
+              "Explore the city of Nicosia",
+              "(2017) Explore the Tomb of the Kings near Nicosia",
+              "(2017) Chabad in Nicosia offers meals",
+              "Explore historical sites in Nicosia",
+              "Visit local markets and cultural attractions",
+              "Visit the Cyprus Museum for a glimpse into the island's history",
+              "Explore the capital city of Nicosia"
+            ],
+            "other": [
+              "Use Uber instead of relying on shuttles in Cyprus",
+              "Contact Chabad of Cyprus for updated kosher food information",
+              "Consider using KosherGPS app for kosher dining options",
+              "Check with Chabad in Nicosia for current kosher food recommendations",
+              "Check with Chabad in Nicosia for updated kosher food recommendations",
+              "(2017) Contact Chabad in Nicosia for current kosher food status",
+              "Consider renting a car to explore the beautiful countryside of Cyprus",
+              "Enjoy the Mediterranean climate and beautiful beaches in Cyprus",
+              "Chabad in Nicosia offers kosher dining options"
+            ]
+          },
+          "Latchi": {
+            "name": "Latchi",
+            "kosherFood": [
+              "Inquire about kosher options at Caprice kosher resort in Latchi"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "Consider staying at Caprice kosher resort in Latchi for a kosher-friendly experience"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Caprice_Kosher_Spa_Resort": {
+            "name": "Caprice Kosher Spa Resort",
+            "kosherFood": [
+              "Kosher dining available at Caprice Kosher Spa Resort in Cyprus"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "Feedback and information available for Caprice Kosher Spa Resort in Cyprus"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Cyprus": {
+            "name": "Cyprus",
+            "kosherFood": [
+              "No specific kosher food recommendations mentioned"
+            ],
+            "minyanim": [
+              "No specific information about minyanim"
+            ],
+            "accommodations": [
+              "No specific hotel recommendations mentioned",
+              "(2024) (2024) Check with Chabad of Athens for Shabbos accommodations with a baby in Cyprus"
+            ],
+            "activities": [
+              "No specific activities mentioned"
+            ],
+            "other": [
+              "No specific details about kosher options in Cyprus"
+            ]
+          },
+          "Sorrento": {
+            "name": "Sorrento",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Hop over to Capri for a day trip"
+            ],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "GREECE",
+        "overallWriteup": "",
+        "cities": {
+          "Athens": {
+            "name": "Athens",
+            "kosherFood": [
+              "Kosher food available in Athens, ensure it meets your kosher standards",
+              "Kosher food available in Athens",
+              "Kosher food available in Athens near Jewish community areas",
+              "Kosher options available in Athens",
+              "Check with local Chabad for more kosher dining options",
+              "Kosher restaurant King George in Athens offers a variety of kosher options",
+              "Check with local Chabad for kosher restaurant recommendations",
+              "Check with local Chabad for kosher dining recommendations",
+              "Kosher restaurants available in Athens offering a variety of Mediterranean and Greek dishes",
+              "Kosher food options available in Athens, check with local Chabad for recommendations",
+              "Check with local Chabad for up-to-date kosher food options",
+              "Gostijo: Kosher meat restaurant located in the Chabad building in Athens",
+              "(0323) GOSTIJO kosher restaurant Esopou 10, Athens Greece 105 54, Greece +30 21 0323 3825",
+              "Kosher restaurant King George in Athens offers a variety of Mediterranean and Jewish dishes",
+              "Check Chabad of Athens for kosher restaurant recommendations",
+              "Kosher food options available in Athens",
+              "Chabad of Athens provides kosher meals and catering services",
+              "Kosher options available in Athens, especially during tourist seasons",
+              "Kosher options available in Athens, including restaurants and markets",
+              "Chabad in Athens provides kosher food, inquire about quality and availability",
+              "Chabad in Athens delivers kosher food to pretty much all the Greek islands",
+              "Check with local Jewish community for kosher food recommendations",
+              "Check with local community for kosher food options",
+              "Check with local Chabad for kosher food options in Athens"
+            ],
+            "minyanim": [
+              "Chabad of Athens available for Shabbat services",
+              "Synagogue Beth Shalom in Athens for daily minyanim",
+              "Chabad of Athens offers Shabbat services and communal meals",
+              "Synagogues in Athens area",
+              "Synagogues in Athens for minyanim",
+              "Chabad of Athens offers services and communal gatherings",
+              "Chabad in Athens likely offers minyanim",
+              "Look for shabbos hosting options in Athens",
+              "Chabad of Athens provides minyanim and Jewish community support",
+              "Synagogue Beth Shalom in Athens",
+              "Official minyan available in Rhodes and Athens",
+              "Chabad of Athens available for daily minyanim",
+              "Multiple synagogues in Athens with daily minyanim",
+              "Chabad of Athens for minyanim and Jewish community events",
+              "Synagogues in Athens for prayer services",
+              "Possible historic synagogues in the area, inquire with local Jewish community",
+              "Chabad of Athens offers daily minyanim",
+              "Synagogues in Athens for daily minyanim",
+              "Synagogues in the Athens area for prayer services",
+              "Check with local synagogues for additional minyanim options",
+              "Chabad in Athens offers meals on Shabbos and has a kosher restaurant",
+              "Chabad of Athens runs Gostijo",
+              "Synagogues in Athens area for Shacharit, Mincha, and Maariv",
+              "Chabad of Athens available for minyanim",
+              "Synagogues in Athens area for prayer services"
+            ],
+            "accommodations": [
+              "Airbnb options available in Athens, some within walking distance to Chabad",
+              "Various hotels in Athens with proximity to Jewish areas",
+              "Accommodations available in Athens, check with local resources for recommendations",
+              "Inquire with local Chabad for kosher hotel options",
+              "Consider staying in the historic Plaka neighborhood for a charming experience",
+              "Various accommodation options in Athens",
+              "Various hotels in Athens",
+              "Various hotels available in the city center for different budgets",
+              "Consider staying in the city center for easy access to kosher facilities",
+              "Range of hotels and accommodations in Athens catering to different budgets",
+              "Consider staying near Jewish Quarter for convenience",
+              "Range of hotels in Athens catering to different budgets and preferences",
+              "Grand Bretagne: Recommended hotel in Athens for a luxurious stay",
+              "Various hotels available in Athens",
+              "Consult with local Chabad for lodging suggestions",
+              "Contact local Chabad for recommended places to stay",
+              "Consider staying in the Plaka neighborhood for a central location",
+              "Various hotels in Athens with proximity to kosher food options",
+              "Consider Airbnb for a more local experience",
+              "Check with local Chabad for accommodation recommendations",
+              "Hotels in central Athens with easy access to Jewish facilities",
+              "Various hotels in Athens for accommodation",
+              "Various hotels in Athens offer kosher amenities upon request",
+              "Various hotels and Airbnb options in Athens",
+              "Various hotels and accommodations in Athens"
+            ],
+            "activities": [
+              "Explore Jewish heritage sites in Athens",
+              "Explore the quirky Little Kook neighborhood",
+              "No specific recommendations mentioned for Athens, Greece",
+              "Enjoy the beautiful beaches in Greece",
+              "Visit historical sites in Athens",
+              "Visit the Jewish museum",
+              "Visit the Acropolis for a historical experience",
+              "Visit historical landmarks like the Acropolis",
+              "Consider visiting nearby Greek islands",
+              "Explore the historical sites in Athens such as the Acropolis and Parthenon",
+              "Try some interesting Greek dishes in Athens",
+              "Explore the historical sites in Athens",
+              "Explore the Acropolis and other historical sites in Athens",
+              "Visit the Grand Palace and Khao San Road in Bangkok",
+              "Explore ancient Greek sites in Athens",
+              "Explore the Acropolis and Parthenon in Athens for a glimpse into ancient Greek history",
+              "Explore the Acropolis and Parthenon for a glimpse into ancient Greek civilization",
+              "Enjoy Mediterranean cuisine in local restaurants",
+              "Visit the Acropolis and Parthenon",
+              "Witness the changing of the guards ceremony",
+              "Consider spending a day exploring the historical sites in Athens",
+              "Explore the Acropolis in Athens",
+              "Dinner at Chabad restaurant",
+              "Explore historical sites in Athens",
+              "Acropolis and other historical landmarks to visit",
+              "Acropolis Jewish walking tour",
+              "Day trips to islands like Hydra or Aegina for a taste of Greek island life",
+              "Visit Acropolis and other ancient landmarks",
+              "Explore the Acropolis and Parthenon in Athens",
+              "Explore the ancient ruins and historical sites in Athens",
+              "Enjoy the vibrant culture and cuisine of Greece",
+              "Explore Jewish history in Athens",
+              "Take a double decker bus tour around the city",
+              "Day trips to nearby islands like Mykonos and Santorini",
+              "Day trips to nearby islands like Hydra or Aegina for a taste of island life",
+              "Explore historical Jewish sites in Athens",
+              "Visit the Jewish Museum of Greece for a cultural experience"
+            ],
+            "other": [
+              "Check with local resources for current kosher food availability in Athens",
+              "Use Kosher-Greece.com for kosher restaurant reviews and recommendations",
+              "Explore the old city alleys around the Acropolis for a unique experience",
+              "Contact Chabad in Athens for up-to-date kosher food information",
+              "Respect local traditions and customs in Athens",
+              "Enjoy Mediterranean cuisine with kosher variations",
+              "Contact Chabad of Athens for current kosher food options",
+              "Plan itinerary with a mix of cultural, historical, and leisure activities",
+              "Consider using KosherGPS app for kosher dining options",
+              "Use KosherQuest.org for reliable kosher information",
+              "Check online resources for up-to-date kosher information",
+              "Use reliable sources like Chabad for up-to-date kosher info",
+              "Confirm kosher food availability with Chabad in Athens",
+              "Verify kosher food availability with Chabad of Athens",
+              "Use KosherGreece.com for kosher travel information in Greece",
+              "Enjoy the vibrant nightlife and bustling markets in Athens",
+              "Contact local Chabad for assistance with kosher food recommendations and Shabbat hospitality",
+              "Contact Chabad of Athens for current kosher food availability",
+              "Enjoy the vibrant Greek culture and cuisine",
+              "Contact Chabad of Athens for updated kosher restaurant recommendations",
+              "Check with Chabad of Athens for updated kosher food recommendations",
+              "Contact Chabad of Athens for up-to-date kosher food options",
+              "Check with Chabad in Athens for current kosher food options",
+              "Consider taking a ferry to a nearby island for a day trip",
+              "Check with local Jewish community for updated information on kosher facilities",
+              "Verify kosher hotel availability with Chabad of Athens",
+              "Check with local Jewish community for special events or holiday celebrations",
+              "Contact Chabad of Athens for updated kosher food information",
+              "Utilize KosherTravelInfo.com for reliable kosher travel guidance",
+              "Check for kosher dining options in popular tourist areas"
+            ]
+          },
+          "Santorini": {
+            "name": "Santorini",
+            "kosherFood": [
+              "Check with Chabad in Athens for kosher food delivery options to Santorini",
+              "Check with local Chabad or kosher services for kosher food options in Santorini",
+              "Kosher options available in Santorini, such as Schnitzlys in Pico",
+              "Limited kosher food options on Santorini, recommend contacting Chabad for assistance",
+              "Limited kosher food options in Santorini",
+              "Limited kosher food options in Santorini, recommend bringing some supplies",
+              "Check for kosher food options in Santorini",
+              "Consider bringing some pre-packaged kosher meals",
+              "Check with local Chabad for kosher food availability",
+              "Limited kosher options in Santorini, recommend bringing some pre-packaged food",
+              "Contact local Chabad for kosher meal arrangements",
+              "Consider bringing some pre-packaged kosher food for convenience"
+            ],
+            "minyanim": [
+              "No permanent synagogue in Santorini, plan ahead for Shabbat services",
+              "Check with local Jewish community for prayer services",
+              "No daily minyanim on Santorini, plan visits around Shabbat for synagogue services",
+              "Information on minyanim in Santorini",
+              "No permanent minyanim in Santorini, check with Chabad for prayer times",
+              "Synagogue in Fira for occasional services",
+              "Check with Chabad for any scheduled minyanim during your visit"
+            ],
+            "accommodations": [
+              "Accommodation options in Santorini",
+              "Book in advance for best options",
+              "Resorts in Santorini offer private pools and stunning views",
+              "Consider Art Hotel Santorini for a more private setting",
+              "Book accommodations with views of the Aegean Sea",
+              "Look for accommodations with kitchen facilities for self-catering kosher meals",
+              "Consider Eagles Villas or Oia Suites for private villas with pools",
+              "Various hotels and villas available on Santorini",
+              "Stunning hotels and villas overlooking the caldera in Santorini",
+              "Elite suites recommended for accommodations in Santorini",
+              "Luxurious hotels with stunning views in Santorini",
+              "Book accommodations in advance due to high demand during peak tourist seasons",
+              "Beautiful hotels and villas overlooking the stunning caldera in Santorini",
+              "Santorini Elite Suites: Recommended villa in Greece with a private pool, ideal for a luxurious stay in Santorini"
+            ],
+            "activities": [
+              "Explore the unique beaches and charming villages across the island",
+              "Tomb of the Kings",
+              "Explore the unique architecture of Santorini",
+              "Relax on the beautiful beaches of Santorini",
+              "Explore the stunning views of Santorini",
+              "Watch the breathtaking sunset in Oia, a must-do experience in Santorini",
+              "Explore the unique architecture and stunning views in Santorini",
+              "Edro III Shipwreck",
+              "Visit the local wineries and enjoy wine tasting tours",
+              "Relax on the beautiful beaches",
+              "Watch the sunset in Oia, a must-do experience in Santorini",
+              "Aphrodite Beach",
+              "Enjoy the stunning views and picturesque landscapes of Santorini",
+              "Explore the volcanic beaches and archaeological sites",
+              "Explore the charming villages and local wineries",
+              "Explore the beautiful views and architecture of Santorini",
+              "Coral Bay"
+            ],
+            "other": [
+              "Verify kosher food availability with local sources in Santorini",
+              "Enjoy local wine tasting and traditional Greek cuisine while in Santorini",
+              "Enjoy local Greek cuisine while being mindful of kosher restrictions",
+              "Plan ahead and communicate with Chabad for a smoother kosher experience",
+              "Enjoy the picturesque sunsets in Oia",
+              "Plan ahead for kosher meals in Santorini",
+              "For more kosher dining recommendations, ask locals or check online forums",
+              "Enjoy the picturesque sunsets in Santorini",
+              "Plan ahead for kosher dining arrangements in Santorini",
+              "Plan boat tours to nearby islands and volcanic hot springs"
+            ]
+          },
+          "Naples": {
+            "name": "Naples",
+            "kosherFood": [
+              "Capri has a kosher hotel",
+              "Contact Chabad in Naples for more kosher options"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Crete": {
+            "name": "Crete",
+            "kosherFood": [
+              "Limited kosher options in Crete, recommend bringing own food",
+              "Contact local Chabad for kosher food recommendations",
+              "(2023) (2023) Check with local Chabad in Crete for kosher food options",
+              "Explore kosher food options in Crete"
+            ],
+            "minyanim": [
+              "Check with local Jewish community for information on minyanim in Crete",
+              "No permanent synagogue in Crete, plan for private prayer services",
+              "Minyanim information for Crete"
+            ],
+            "accommodations": [
+              "Various hotels and resorts available in Crete, consider booking in advance",
+              "Accommodations available in Crete",
+              "Consider accommodations with kitchen facilities for kosher travelers",
+              "(2023) (2023) Look for accommodations recommended by local Chabad in Crete",
+              "Inquire about The Royal Senses Resort and Stella Island in Crete for accommodations",
+              "Resorts like Domes of Elounda offer private pools in Crete"
+            ],
+            "activities": [
+              "Visit the Palace of Knossos and Chania Old Town",
+              "Visit historical sites and enjoy the local cuisine",
+              "Explore the diverse offerings of Crete, combining beaches, historical sites, and charming villages",
+              "Enjoy the beaches and culture of Crete",
+              "Explore the historical sites and beautiful beaches of Crete",
+              "Explore the beautiful beaches in Crete"
+            ],
+            "other": [
+              "Check with local sources for current kosher food status in Crete",
+              "Plan for kosher food arrangements in Crete",
+              "Embrace the rich history and natural beauty of Crete",
+              "Research local markets for kosher food options",
+              "Consider bringing some kosher snacks for convenience"
+            ]
+          },
+          "Venice": {
+            "name": "Venice",
+            "kosherFood": [
+              "No kosher food available in Crete"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Kosher kiosks in Venice, main one located between the ghetto and St. Marco on a main walking street"
+            ],
+            "other": []
+          },
+          "Rhodes": {
+            "name": "Rhodes",
+            "kosherFood": [
+              "Many excellent Kosher restaurants near Chabad in Rhodes"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "Several nice hotels near Chabad in Rhodes"
+            ],
+            "activities": [
+              "Visit Recoleta cemetery, Casa Rosada, Caminito, La Boca, and more in Rhodes"
+            ],
+            "other": []
+          },
+          "Greek_Islands": {
+            "name": "Greek Islands",
+            "kosherFood": [
+              "Kosher food options available in certain areas of the Greek Islands, recommend checking with local Chabad for current information"
+            ],
+            "minyanim": [
+              "Contact local Chabad centers in the Greek Islands for minyan schedules"
+            ],
+            "accommodations": [
+              "Various accommodation options on the Greek Islands, consider booking in advance for family-friendly stays"
+            ],
+            "activities": [
+              "Enjoy the picturesque views and beaches of the Greek Islands",
+              "Explore the local culture and historical sites"
+            ],
+            "other": [
+              "Reach out to Chabad centers in the Greek Islands for kosher food recommendations",
+              "Utilize online resources like Dan's Deals Trip reports for travel tips and experiences"
+            ]
+          },
+          "Cyprus": {
+            "name": "Cyprus",
+            "kosherFood": [
+              "Kosher food options available in Cyprus"
+            ],
+            "minyanim": [
+              "Synagogues in Cyprus for minyanim"
+            ],
+            "accommodations": [
+              "Various hotels and accommodations in Cyprus"
+            ],
+            "activities": [
+              "Enjoy the beautiful beaches of Cyprus"
+            ],
+            "other": [
+              "Check with local resources for current kosher food availability in Cyprus"
+            ]
+          },
+          "Mykonos": {
+            "name": "Mykonos",
+            "kosherFood": [
+              "Contact local Chabad for assistance",
+              "Kosher dining options in Mykonos",
+              "Limited kosher options in Mykonos",
+              "Limited kosher food availability on Mykonos, contact Chabad for assistance",
+              "Consider bringing non-perishable kosher snacks for backup",
+              "Limited kosher dining options in Mykonos",
+              "Consider bringing packaged kosher food for convenience",
+              "Chabad of Athens delivers kosher food to Mykonos and other islands",
+              "Local service Kosher Mykonos available for kosher food in Mykonos"
+            ],
+            "minyanim": [
+              "Chabad of Mykonos available for minyanim",
+              "No permanent minyanim in Mykonos, check with local Chabad for seasonal services",
+              "Check with Chabad for Shabbat services",
+              "Minyanim in Mykonos",
+              "Explore options for joining local Jewish community prayers",
+              "Synagogue in Mykonos town for occasional prayer services"
+            ],
+            "accommodations": [
+              "Book accommodations in advance during peak tourist seasons",
+              "Look for accommodations with kitchenettes for preparing kosher meals",
+              "Consider staying close to Chabad for convenience",
+              "Lodging choices in Mykonos",
+              "Wide range of hotels and villas on Mykonos island",
+              "Boutique hotels and luxury resorts in Mykonos",
+              "Luxury resorts and boutique hotels in Mykonos"
+            ],
+            "activities": [
+              "Tomb of the Kings",
+              "Relax on the beautiful beaches",
+              "Experience the vibrant nightlife of Mykonos",
+              "Visit the local windmills and Little Venice area for picturesque views",
+              "Explore the vibrant nightlife of Mykonos",
+              "Aphrodite Beach",
+              "Experience the vibrant nightlife and beautiful beaches of Mykonos",
+              "Discover the lively and cosmopolitan vibe of Mykonos, attracting many visitors",
+              "Explore the charming streets of Mykonos town",
+              "Enjoy the beautiful beaches and vibrant nightlife in Mykonos",
+              "Edro III Shipwreck",
+              "Coral Bay"
+            ],
+            "other": [
+              "Ensure to plan kosher meals in advance during your stay on the island",
+              "Plan day trips to nearby islands or historical sites",
+              "Enjoy the cosmopolitan atmosphere of Mykonos",
+              "Verify kosher food availability with local resources in Mykonos",
+              "Plan meals in advance due to limited kosher availability",
+              "Respect local customs and traditions during your stay",
+              "Consult with Chabad for up-to-date kosher food information on Mykonos",
+              "Check Booking.com maps for more options on Greek islands like Crete and Rhodes"
+            ]
+          },
+          "Zakynthos": {
+            "name": "Zakynthos",
+            "kosherFood": [
+              "Check for kosher food options in Zakynthos"
+            ],
+            "minyanim": [
+              "Minyanim available in Zakynthos"
+            ],
+            "accommodations": [
+              "Various accommodations in Zakynthos"
+            ],
+            "activities": [
+              "Visit the cool cove in Zakynthos for a unique experience",
+              "Explore the natural beauty of Zakynthos"
+            ],
+            "other": [
+              "Confirm kosher food availability with local sources in Zakynthos"
+            ]
+          },
+          "Thessaloniki": {
+            "name": "Thessaloniki",
+            "kosherFood": [
+              "Local supermarkets in Thessaloniki offer a variety of kosher products",
+              "Kosher dining options in Thessaloniki serving traditional Greek kosher dishes",
+              "Chabad presence in Thessaloniki",
+              "Limited kosher options in Thessaloniki, plan meals in advance",
+              "Kosher restaurant Shaq Shuq in Thessaloniki known for its Middle Eastern cuisine"
+            ],
+            "minyanim": [
+              "Chabad in Thessaloniki for minyanim",
+              "Synagogue Monastiriotes in Thessaloniki for daily prayers",
+              "Synagogues in Thessaloniki for prayer services",
+              "Chabad of Thessaloniki offers daily minyanim and Shabbat services",
+              "Chabad of Thessaloniki organizes Shabbat services and communal meals",
+              "Synagogues available for prayer gatherings in Thessaloniki",
+              "Chabad of Thessaloniki available for minyanim"
+            ],
+            "accommodations": [
+              "Various hotels available in Thessaloniki",
+              "Hotels and guesthouses in Thessaloniki suitable for Jewish travelers",
+              "Check with local Chabad for accommodation recommendations",
+              "Hotels like The Bristol Hotel and Daios Luxury Living provide comfortable stays with kosher-friendly options",
+              "Various hotels in Thessaloniki",
+              "Consider Airbnb rentals in Thessaloniki for a more local experience"
+            ],
+            "activities": [
+              "Explore the White Tower and waterfront in Thessaloniki",
+              "Explore the White Tower of Thessaloniki",
+              "Visit the Jewish Museum of Thessaloniki to learn about the city's Jewish history",
+              "Day trips to nearby Halkidiki for stunning beaches and natural beauty",
+              "Visit Jewish heritage sites in Thessaloniki",
+              "Visit the White Tower and Archaeological Museum of Thessaloniki for a cultural immersion",
+              "Explore the historical city of Thessaloniki"
+            ],
+            "other": [
+              "Explore the Jewish Museum of Thessaloniki to learn about the city's Jewish heritage",
+              "Check with Chabad of Thessaloniki for kosher certification of local eateries",
+              "Check with Chabad in Thessaloniki for kosher food options",
+              "Confirm kosher food options with Chabad of Thessaloniki",
+              "Embrace the cultural diversity of Thessaloniki",
+              "Plan visits to kosher-certified restaurants in advance",
+              "Check with Chabad of Thessaloniki for current kosher food options"
+            ]
+          },
+          "Istanbul": {
+            "name": "Istanbul",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Shauly Travel: Rabbi Istanbul.vcf (file attached)"
+            ]
+          },
+          "Saloniki": {
+            "name": "Saloniki",
+            "kosherFood": [
+              "(2024) - Kosher restaurant recommendations near Saloniki"
+            ],
+            "minyanim": [
+              "(2024) - Search GoDaven for addresses of shuls with early minyanim in Saloniki"
+            ],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Greece": {
+            "name": "Greece",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Emunah Travel: For kosher food contact in tulum"
+            ]
+          },
+          "Corfu": {
+            "name": "Corfu",
+            "kosherFood": [
+              "Check for kosher food options in Corfu"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Split_Croatia": {
+            "name": "Split Croatia",
+            "kosherFood": [
+              "No specific kosher food recommendations mentioned"
+            ],
+            "minyanim": [
+              "No specific minyanim recommendations mentioned"
+            ],
+            "accommodations": [
+              "No specific accommodations recommendations mentioned"
+            ],
+            "activities": [
+              "No specific activities recommendations mentioned"
+            ],
+            "other": [
+              "No specific tips mentioned"
+            ]
+          },
+          "Chania": {
+            "name": "Chania",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Consider contacting local rental agencies for villa rentals with private pools",
+              "Look for private pool options in Chania, Crete within your budget"
+            ],
+            "activities": [
+              "Relax on the beautiful beaches of Crete",
+              "Enjoy the picturesque old town of Chania"
+            ],
+            "other": [
+              "Check for availability and reviews of private pool accommodations in Chania, Crete",
+              "Research local travel tips and recommendations for a memorable stay in Crete"
+            ]
+          }
+        }
+      },
+      {
+        "name": "FRANCE",
+        "overallWriteup": "",
+        "cities": {
+          "Paris": {
+            "name": "Paris",
+            "kosherFood": [
+              "Check with local Chabad for kosher dining options",
+              "Le Marais restaurant in Paris requires vaccine proof for entry",
+              "Sacha Finkelsztajn: Known for its delicious kosher pastries and baked goods",
+              "Kosher food options available in the airport CDG in Paris, France",
+              "Check for kosher dining options in the Le Marais neighborhood",
+              "Kosher restaurants and bakeries available in the Marais district",
+              "L'Inte Caffe: A popular kosher Italian restaurant in Paris",
+              "Kosher restaurants available in Paris, check with local Jewish community for recommendations"
+            ],
+            "minyanim": [
+              "Multiple synagogues in Paris area for minyanim",
+              "Chabad of Paris offers daily minyanim",
+              "Chabad of Paris offers services",
+              "Synagogue de la Victoire: One of the oldest synagogues in Paris",
+              "Chabad of Paris: Offers daily minyanim and Shabbat services",
+              "Multiple synagogues in the Paris area for minyanim"
+            ],
+            "accommodations": [
+              "Airbnb options in Paris with kosher kitchen facilities",
+              "Consider staying in the Jewish quarter for proximity to synagogues and kosher facilities",
+              "Airbnb options available in different neighborhoods",
+              "Various kosher hotels available in the Jewish quarter of Paris",
+              "Various hotels available in Paris",
+              "Various hotels in Paris, consider proximity to Jewish areas for convenience"
+            ],
+            "activities": [
+              "Louvre Museum: Explore one of the world's largest and most famous museums",
+              "Visit famous landmarks such as the Eiffel Tower and Louvre Museum",
+              "Stroll along the Seine River and enjoy a boat cruise for a different perspective of the city",
+              "Explore iconic landmarks like the Eiffel Tower and Louvre Museum",
+              "Check for Kosher Pastry Class in Paris",
+              "Eiffel Tower: Iconic landmark offering stunning views of the city",
+              "Explore iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre Dame Cathedral",
+              "Visit the historic Jewish quarter in the Marais district",
+              "Explore Jewish heritage sites in Paris"
+            ],
+            "other": [
+              "Check with Israeli embassy in Paris for travel restrictions and transit information",
+              "Follow official guidelines for travel from France to other countries",
+              "Check Hermolis.com for kosher food options in Paris",
+              "Visit the Marais district for a vibrant Jewish community atmosphere",
+              "Check with local Chabad for updated kosher restaurant recommendations",
+              "Contact local Chabad for Shabbat hospitality options",
+              "Use reliable websites for up-to-date travel restrictions and guidelines"
+            ]
+          },
+          "Nice": {
+            "name": "Nice",
+            "kosherFood": [
+              "Lechem Chamaym: Kosher bakery offering a variety of pastries and bread",
+              "King David: Popular kosher restaurant with Mediterranean cuisine"
+            ],
+            "minyanim": [
+              "Synagogue A.T.I.C.: Another option for prayer services in Nice",
+              "Chabad of Nice: Provides daily minyanim and Shabbat services"
+            ],
+            "accommodations": [
+              "Kosher-friendly hotels along the Promenade des Anglais",
+              "Apartments for rent in Nice with kosher amenities"
+            ],
+            "activities": [
+              "Old Town: Explore the charming narrow streets and local markets",
+              "Promenade des Anglais: Enjoy a leisurely walk along the beautiful waterfront"
+            ],
+            "other": [
+              "Contact Chabad of Nice for assistance with kosher food options",
+              "Stock up on kosher groceries at local supermarkets in Nice"
+            ]
+          },
+          "Marseilles": {
+            "name": "Marseilles",
+            "kosherFood": [
+              "Check with local Chabad for kosher breakfast options in Marseilles"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Saint_Tropez": {
+            "name": "Saint Tropez",
+            "kosherFood": [
+              "Chabad available in Saint Tropez"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Confirm kosher food options with Chabad in Saint Tropez"
+            ]
+          },
+          "Alps": {
+            "name": "Alps",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Scenic mountain views and outdoor activities in the Alps",
+              "Ideal for family vacations with various accommodation options"
+            ],
+            "other": []
+          },
+          "South_of_France": {
+            "name": "South of France",
+            "kosherFood": [
+              "Kosher restaurants available in the South of France",
+              "Check with local Chabad for updated kosher dining options"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "Family-friendly resorts with amenities",
+              "All-inclusive hotels in the South of France"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Algarve": {
+            "name": "Algarve",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Relaxing summer destination for European families",
+              "Beautiful beaches and coastal attractions in Algarve"
+            ],
+            "other": []
+          },
+          "St_Remy": {
+            "name": "St Remy",
+            "kosherFood": [
+              "(2024) , 9:42 PM - Kosher vineyards in St Remy, France that offer kosher meals"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Aix_en_Provence": {
+            "name": "Aix en Provence",
+            "kosherFood": [
+              "Check with local Chabad for kosher food options"
+            ],
+            "minyanim": [
+              "Contact Chabad of Aix en Provence for minyan schedule"
+            ],
+            "accommodations": [
+              "Various hotels and accommodations available in Aix en Provence"
+            ],
+            "activities": [
+              "Visit historical sites in the area",
+              "Explore the charming streets and markets of Aix en Provence"
+            ],
+            "other": [
+              "Consider joining a guided tour for a comprehensive experience",
+              "Reach out to LVR Travel for more information on Aix en Provence"
+            ]
+          },
+          "Cannes": {
+            "name": "Cannes",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Rome": {
+            "name": "Rome",
+            "kosherFood": [
+              "Daniel Klein: Bona pizza",
+              "Sruly Gunzburg: Yotvatta Baghetto"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "PORTUGAL",
+        "overallWriteup": "",
+        "cities": {
+          "Lisbon": {
+            "name": "Lisbon",
+            "kosherFood": [
+              "Contact Chabad of Portugal for kosher restaurant recommendations in Lisbon",
+              "Kosher restaurants in Lisbon offering traditional Portuguese dishes",
+              "Kosher restaurants and stores available in Lisbon for a variety of dining options",
+              "Kosher food options available in Lisbon, including kosher restaurants and grocery stores",
+              "Check with local Jewish community for updated kosher food recommendations",
+              "Emunah Travel: UPDATE: upon checking with the hotel appears they no longer accepts outside guests for the kosher, sorry about that. tried...",
+              "Lisbon has kosher food options",
+              "Check with local Jewish community for any kosher restaurants or stores",
+              "Check with local Jewish community for kosher dining suggestions",
+              "Check with local Chabad for up-to-date information on kosher establishments",
+              "Kosher options available in Lisbon",
+              "Check with local Chabad for kosher restaurants"
+            ],
+            "minyanim": [
+              "Synagogue in Lisbon with regular minyanim",
+              "Synagogues and Chabad center in Lisbon for daily minyanim",
+              "Synagogues in Lisbon for prayer services",
+              "Chabad of Lisbon offers daily minyanim and Shabbat services",
+              "Minyan pretty much always available in Lisbon",
+              "Explore local synagogues for prayer services",
+              "Chabad of Lisbon available for prayer services",
+              "Chabad of Portugal available for minyanim in Lisbon",
+              "Chabad Lisbon offers minyanim and Jewish resources",
+              "Reliable source for prayer services while in Lisbon",
+              "Contact Chabad of Lisbon for information on minyanim",
+              "Chabad available in Lisbon",
+              "Synagogues in Lisbon area for prayer services"
+            ],
+            "accommodations": [
+              "Various hotels and rental accommodations in Lisbon",
+              "Various hotels and accommodations in Lisbon",
+              "Consider staying in areas with easy access to Jewish amenities",
+              "Consider staying at kosher-friendly establishments",
+              "Range of hotels and vacation rentals in Lisbon",
+              "Consider staying near the historic Alfama district for a cultural experience",
+              "Convenient option for kosher meals and minyanim",
+              "Consider staying in a hotel close to Chabad for convenience",
+              "Consider staying in the historic Alfama district for a unique experience",
+              "Hotels in Lisbon with kosher-friendly options",
+              "Porto has a Kosher hotel",
+              "Consider staying at King David Hotel in Lisbon",
+              "Various accommodation options available in Lisbon",
+              "Look for accommodations with kitchen facilities to prepare kosher meals"
+            ],
+            "activities": [
+              "Take a tram ride through the narrow streets of Alfama",
+              "Explore the Portuguese Synagogue for a cultural experience",
+              "Visit the Jewish Museum of Lisbon for a glimpse into Jewish history",
+              "Explore the historic neighborhoods of Lisbon",
+              "Visit iconic landmarks like Belem Tower and Jeronimos Monastery",
+              "Visit historical sites and enjoy the local culture",
+              "Visit the Belem Tower and Jeronimos Monastery",
+              "Explore the Belem Tower and Jeronimos Monastery",
+              "Visit the beautiful Sintra region for its palaces and gardens",
+              "Explore the historic neighborhoods of Alfama and Belem",
+              "Explore the beautiful city of Lisbon",
+              "Explore the vibrant city of Lisbon",
+              "Visit cultural sites and enjoy the scenic views along the coast",
+              "Explore Belem Tower and Jeronimos Monastery for historical landmarks",
+              "Consider visiting Lagos as well"
+            ],
+            "other": [
+              "Enjoy the vibrant culture and cuisine of Lisbon",
+              "Katz Eliyahu: Lisbon doesn’t have a Chabad/minyan/food, but there's a Chabad just outside of Lisbon",
+              "Utilize kosher travel guides for Portugal for a smooth trip",
+              "Check with local resources for updated kosher information",
+              "Embrace the local culture and cuisine while being mindful of kosher restrictions",
+              "Check current vaccine passport requirements for Portugal",
+              "Utilize Chabad's resources for a fulfilling kosher experience",
+              "Experience a Fado music performance in a traditional restaurant",
+              "Contact Chabad of Lisbon for current kosher food availability",
+              "Utilize KosherGPS app for locating kosher facilities in Lisbon",
+              "Check with local Chabad for current kosher food availability in Lisbon",
+              "Contact Chabad of Lisbon for kosher food delivery options",
+              "Plan your itinerary in advance to ensure a smooth travel experience",
+              "Enjoy a day trip to Sintra to visit the colorful Pena Palace",
+              "Check out h'baron for top meals in Europe",
+              "Check with Chabad for current status of kosher amenities"
+            ]
+          },
+          "Porto": {
+            "name": "Porto",
+            "kosherFood": [
+              "Inquire about kosher food availability in Porto supermarkets",
+              "Check with local Chabad or Jewish community for any temporary kosher options",
+              "Limited kosher dining options in Porto",
+              "Kosher options available in Porto, including kosher restaurants and grocery stores",
+              "Plan ahead and stock up on kosher supplies if visiting Porto",
+              "Contact local sources for ordering kosher food in Porto",
+              "Limited kosher food options, recommend contacting local Jewish community for assistance"
+            ],
+            "minyanim": [
+              "Synagogue in Porto for daily minyanim",
+              "Synagogue in Porto for prayer services",
+              "Check for local synagogues in Porto for minyanim",
+              "Contact local Jewish community for Shabbat services",
+              "Contact Jewish community in Porto for prayer services",
+              "Synagogue in Porto with scheduled minyanim",
+              "Chabad Porto offers Jewish services and hospitality",
+              "Contact local Jewish community for information on minyanim in Porto"
+            ],
+            "accommodations": [
+              "Consider staying near the Douro River for scenic views",
+              "Various hotels and rental accommodations in Porto",
+              "Various hotels available in Porto",
+              "Range of hotels and guesthouses in Porto",
+              "Reach out to local Jewish organizations for recommendations on Shabbat-friendly accommodations",
+              "Check with local community for accommodation recommendations",
+              "Consider staying in the Jewish quarter for a unique experience",
+              "Hotels and guesthouses available in Porto",
+              "Limited kosher accommodations in Porto, consider staying in a hotel with kitchen facilities for self-catering",
+              "Consider accommodations near Jewish community facilities"
+            ],
+            "activities": [
+              "Visit local attractions in Porto",
+              "Explore the charming streets and riverside of Porto",
+              "Visit the historic Livraria Lello bookshop for its stunning architecture",
+              "Explore the historic Ribeira district in Porto",
+              "Visit Livraria Lello, a stunning bookstore with a magical atmosphere",
+              "Take a boat tour along the Douro River to see the famous wine cellars",
+              "Explore the historic district of Porto",
+              "Visit Livraria Lello, a famous bookstore with stunning architecture",
+              "Taste the famous port wine in local cellars"
+            ],
+            "other": [
+              "Respect local customs and traditions while in Porto",
+              "Check with local Chabad for updated kosher food recommendations",
+              "Explore the Ribeira district for charming streets and riverside cafes",
+              "Experience the rich history and architecture of Porto",
+              "Join a port wine tasting tour to sample the local specialty",
+              "Ensure to plan kosher meals in advance in Porto",
+              "Consider bringing kosher travel snacks for convenience",
+              "Plan visits to nearby attractions like Douro Valley",
+              "Enjoy the scenic Douro River and try some local Port wine",
+              "Looking for Chabad rabbi number in Porto Portugal"
+            ]
+          },
+          "Azores": {
+            "name": "Azores",
+            "kosherFood": [
+              "Limited kosher food options in Azores, recommend contacting local Chabad for assistance",
+              "Limited kosher food options, recommend bringing non-perishable kosher products"
+            ],
+            "minyanim": [
+              "Check with Chabad in Azores for minyan schedules",
+              "No known minyanim on the Azores islands, plan accordingly"
+            ],
+            "accommodations": [
+              "Hotels and guesthouses available on the Azores",
+              "Accommodation choices available in Azores, book in advance for a comfortable stay",
+              "Consider self-catering options for kosher observant travelers"
+            ],
+            "activities": [
+              "Explore volcanic landscapes and lush greenery",
+              "Enjoy the natural beauty and tranquility of the Azores",
+              "Explore the natural beauty and landscapes of Azores",
+              "Engage in outdoor activities such as hiking and sightseeing"
+            ],
+            "other": [
+              "Contact Chabad in Azores for updated kosher food information",
+              "Refer to online resources like Dan's Deals Trip reports for travel insights",
+              "Plan outdoor activities like hiking and whale watching",
+              "Check for seasonal variations in weather on the Azores"
+            ]
+          },
+          "Faro": {
+            "name": "Faro",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore the Algarve region in Southern Portugal, known for its beautiful beaches and picturesque landscapes"
+            ],
+            "other": [
+              "Consider staying in Faro for a relaxing vacation with easy access to the stunning coastline"
+            ]
+          },
+          "Cascais": {
+            "name": "Cascais",
+            "kosherFood": [
+              "Limited kosher food options in Cascais, consider bringing supplies"
+            ],
+            "minyanim": [
+              "No specific information on minyanim in Cascais, check with local Jewish community"
+            ],
+            "accommodations": [],
+            "activities": [
+              "Explore the charming streets and shops in the town center",
+              "Enjoy the beautiful beaches of Cascais"
+            ],
+            "other": [
+              "Consider day trips from Cascais to nearby areas with more kosher amenities",
+              "Contact local Jewish organizations for assistance in Cascais"
+            ]
+          },
+          "Algarve": {
+            "name": "Algarve",
+            "kosherFood": [
+              "Kosher restaurants available in the Algarve region during temporary programs",
+              "French kosher programs often present in the Algarve during the summer"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "CROATIA",
+        "overallWriteup": "",
+        "cities": {
+          "Split": {
+            "name": "Split",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Enjoy the beautiful beaches along the Dalmatian Coast",
+              "Explore the historic Diocletian's Palace in Split"
+            ],
+            "other": [
+              "Consider visiting nearby islands for a day trip from Split",
+              "Check with local resources for up-to-date information on kosher dining in Split"
+            ]
+          },
+          "Zagreb": {
+            "name": "Zagreb",
+            "kosherFood": [
+              "Meals and prayers available for travelers in Zagreb every Friday and Saturday",
+              "Chabad of Croatia in Zagreb provides kosher food for travelers throughout Croatia",
+              "Chabad of Croatia in Zagreb provides kosher food delivery throughout Croatia",
+              "Kosher food delivery available in Zagreb",
+              "Kosher food options available in Zagreb, such as kosher restaurants and pre-packaged food stores",
+              "Meals and prayers available for travelers in Zagreb on Fridays and Saturdays"
+            ],
+            "minyanim": [
+              "Chabad of Zagreb offers minyanim for travelers",
+              "Check with local Chabad for Shabbat minyanim",
+              "Chabad of Zagreb organizes prayers for travelers",
+              "Synagogues in Zagreb for daily minyanim",
+              "Chabad available in Zagreb for Shabbat"
+            ],
+            "accommodations": [
+              "Accommodation options available in Zagreb for travelers",
+              "Various accommodation options available in Zagreb",
+              "Consider staying near the Jewish Quarter for convenience",
+              "Various hotels and accommodations in Zagreb"
+            ],
+            "activities": [
+              "Explore the attractions of Zagreb",
+              "Visit the historic Upper Town area",
+              "Explore the Jewish heritage sites in Zagreb"
+            ],
+            "other": [
+              "Contact Chabad of Zagreb for updated kosher information",
+              "Contact kosherzagreb@gmail.com for further assistance",
+              "Chabad of Croatia offers assistance to travelers in need",
+              "Contact Chabad of Zagreb for more details on kosher services",
+              "Chabad Rabbi contact information available for Croatia",
+              "Check local guides for specific kosher dining recommendations"
+            ]
+          },
+          "Marseille": {
+            "name": "Marseille",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Things to see in Marseille for 1 day: Visit the Old Port (Vieux Port) for a taste of local life, explore the historic Le Panier neighborhood, and enjoy fresh seafood at local restaurants"
+            ],
+            "other": []
+          },
+          "Dubrovnik": {
+            "name": "Dubrovnik",
+            "kosherFood": [
+              "Check with local Chabad for kosher food availability in Dubrovnik"
+            ],
+            "minyanim": [
+              "No Chabad in Dubrovnik, consider visiting Chabad in Montenegro for services"
+            ],
+            "accommodations": [
+              "Hotel recommendations needed for Plitvice and Dubrovnik"
+            ],
+            "activities": [
+              "Explore the old city of Dubrovnik"
+            ],
+            "other": []
+          },
+          "No_specific_city_mentioned": {
+            "name": "No specific city mentioned",
+            "kosherFood": [
+              "No specific kosher food recommendations mentioned"
+            ],
+            "minyanim": [
+              "No specific minyanim recommendations mentioned"
+            ],
+            "accommodations": [
+              "No specific accommodations recommendations mentioned"
+            ],
+            "activities": [
+              "No specific activities recommendations mentioned"
+            ],
+            "other": [
+              "No specific other recommendations mentioned"
+            ]
+          },
+          "Podgorica": {
+            "name": "Podgorica",
+            "kosherFood": [],
+            "minyanim": [
+              "(2018) As of 2018, Chabad available for minyan in Podgorica"
+            ],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Kotor": {
+            "name": "Kotor",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "(2018) No Chabad in Kotor as of 2018"
+            ]
+          },
+          "Plitvice": {
+            "name": "Plitvice",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Hotel recommendations needed for Plitvice and Dubrovnik"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Croatia": {
+            "name": "Croatia",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Joel Berkowitz mentioned Croatia"
+            ]
+          }
+        }
+      },
+      {
+        "name": "BULGARIA",
+        "overallWriteup": "",
+        "cities": {
+          "Varna": {
+            "name": "Varna",
+            "kosherFood": [
+              "Kosher options available in Varna, Bulgaria through KosherWhere service"
+            ],
+            "minyanim": [
+              "Chabad presence in Varna for minyanim"
+            ],
+            "accommodations": [
+              "Check with local Chabad in Varna for kosher accommodation recommendations"
+            ],
+            "activities": [
+              "Visit the Varna Archaeological Museum for history buffs",
+              "Explore the Black Sea beaches in Varna"
+            ],
+            "other": [
+              "Utilize KosherWhere service for kosher dining options",
+              "Contact Chabad in Varna for current kosher food availability"
+            ]
+          }
+        }
+      },
+      {
+        "name": "MALTA",
+        "overallWriteup": "",
+        "cities": {
+          "Valletta": {
+            "name": "Valletta",
+            "kosherFood": [
+              "No specific kosher food recommendations available"
+            ],
+            "minyanim": [
+              "No specific information on minyanim available"
+            ],
+            "accommodations": [
+              "No specific accommodation recommendations available"
+            ],
+            "activities": [
+              "No specific activities mentioned"
+            ],
+            "other": [
+              "(2018) Consult reliable sources for kosher food information in Malta",
+              "(2018) Verify kashrut status of products like Coke in Malta"
+            ]
+          },
+          "Malta": {
+            "name": "Malta",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Consider a Jewish tour in Malta for a unique cultural experience"
+            ],
+            "other": [
+              "Inquire with local contacts for travel recommendations and tips"
+            ]
+          },
+          "Playa": {
+            "name": "Playa",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Reliable/responsible babysitting recommendations in Playa"
+            ],
+            "other": []
+          },
+          "Gozo": {
+            "name": "Gozo",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore the stunning coastline of Gozo",
+              "Enjoy the natural beauty of the Azure Window",
+              "Visit the historic Cittadella"
+            ],
+            "other": []
+          },
+          "Santo_Domingo": {
+            "name": "Santo Domingo",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Best to bring your own food if staying anywhere else in Malta"
+            ]
+          }
+        }
+      },
+      {
+        "name": "MONTENEGRO",
+        "overallWriteup": "",
+        "cities": {
+          "N_A": {
+            "name": "N/A",
+            "kosherFood": [
+              "Check with local resources for kosher food availability in Montenegro"
+            ],
+            "minyanim": [
+              "N/A"
+            ],
+            "accommodations": [
+              "N/A"
+            ],
+            "activities": [
+              "N/A"
+            ],
+            "other": [
+              "N/A"
+            ]
+          },
+          "Podgorica": {
+            "name": "Podgorica",
+            "kosherFood": [
+              "Check with local Chabad for kosher food options",
+              "Kosher food available with Chabad rabbi and his family in Podgorica",
+              "Chabad rabbi in Podgorica, Montenegro hosts for Shabbos with American-born rabbi"
+            ],
+            "minyanim": [
+              "Chabad rabbi in Podgorica available for minyanim",
+              "Shabbat spent with Chabad rabbi and his family in Podgorica"
+            ],
+            "accommodations": [
+              "Stayed in Hilton outside old city of Dubrovnik, nice option",
+              "Limited information on accommodations, recommend checking with local resources",
+              "Stayed with Chabad rabbi and his family in Podgorica"
+            ],
+            "activities": [
+              "Explore old city of Dubrovnik",
+              "Enjoyed Shabbat in Podgorica with Chabad rabbi and his family",
+              "Soviet-style city with limited aesthetic appeal"
+            ],
+            "other": [
+              "No Chabad in Dubrovnik, plan food arrangements in advance"
+            ]
+          },
+          "Budva": {
+            "name": "Budva",
+            "kosherFood": [
+              "Dukley Hotel in Budva offers kosher restaurant from Chabad",
+              "Limited kosher food availability in Budva, plan meals in advance",
+              "Kosher options available at the new Chabad house in Budva",
+              "Check with local Chabad for kosher food options"
+            ],
+            "minyanim": [
+              "Check with local Jewish community for minyanim schedules",
+              "Minyanim available at the Chabad house in Budva",
+              "Explore options for prayer services in Budva",
+              "Possibility of higher chances for a minyan for Shabbat shacharit"
+            ],
+            "accommodations": [
+              "Luxurious hotel options nearby",
+              "Contact local resources for information on kosher-friendly lodging",
+              "Limited information on accommodations, recommend checking with local resources",
+              "Accommodations inside the Chabad house in Budva",
+              "Consider staying at Dukley Hotel in Budva",
+              "Look for accommodations with kitchen facilities for kosher meal preparation"
+            ],
+            "activities": [
+              "Discover the scenic beauty of Budva and its beaches",
+              "Beautiful coastal city with beaches and historic sites",
+              "Explore the nearby attractions",
+              "Enjoy the stunning coastal views in Budva",
+              "Engage in outdoor activities and water sports in Budva"
+            ],
+            "other": [
+              "Plan kosher meals in advance due to limited options in Budva",
+              "Consider bringing non-perishable kosher food items for convenience",
+              "Contact the Chabad house in Budva for more information",
+              "Check with Chabad for kosher food availability",
+              "Chabad family meals offer a local experience"
+            ]
+          },
+          "Montenegro": {
+            "name": "Montenegro",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Contact local hotels in Montenegro for accommodation options"
+            ],
+            "activities": [],
+            "other": [
+              "Inquire about car services in Montenegro for transportation needs"
+            ]
+          },
+          "Duckley": {
+            "name": "Duckley",
+            "kosherFood": [
+              "Check with Chabad in Duckley for additional kosher food options",
+              "Enjoy kosher dining at the small restaurant in Duckley hotel"
+            ],
+            "minyanim": [
+              "Chabad in Duckley offers minyanim and religious services",
+              "Connect with the local Jewish community for prayer gatherings"
+            ],
+            "accommodations": [
+              "Explore other accommodation options in Montenegro suitable for families",
+              "Stay at the beautiful Duckley hotel for a relaxing beach vacation"
+            ],
+            "activities": [
+              "Visit nearby attractions and enjoy family-friendly activities in Duckley",
+              "Relax on the stunning beaches of Montenegro with your young children"
+            ],
+            "other": [
+              "Ensure to make reservations in advance for the Duckley hotel and kosher restaurant",
+              "Contact Chabad in Montenegro for any specific family-friendly recommendations"
+            ]
+          }
+        }
+      },
+      {
+        "name": "MONACO",
+        "overallWriteup": "",
+        "cities": {
+          "Monaco": {
+            "name": "Monaco",
+            "kosherFood": [
+              "No specific kosher food recommendations mentioned",
+              "(9955) +1 (845) 304-9955: Chabad recommended list"
+            ],
+            "minyanim": [
+              "Random 159: Chabad Monaco available for minyanim",
+              "No specific minyanim recommendations mentioned"
+            ],
+            "accommodations": [
+              "(1458) +1 (732) 267-1458: Thank you",
+              "No specific accommodations recommendations mentioned",
+              "Reichenbach: Check with local Chabad for accommodation recommendations"
+            ],
+            "activities": [
+              "Yaakov Drebin: Around Monaco, options include Uber, walking with a cool escalator system, and Ferry",
+              "Yaakov Drebin: From the airport in Monaco, take an express train straight to the city",
+              "Reichenbach: Explore the beauty of Monaco",
+              "Reichenbach: Enjoy the luxurious lifestyle"
+            ],
+            "other": [
+              "Check with local sources for information on Edmond Safra Synagogue in Monaco",
+              "Reichenbach: Contact Chabad of Monaco for current kosher food status",
+              "(2022) () Check with the local Chabad for the current status of the old shul in Monaco",
+              "(9955) +1 (845) 304-9955: Chabad recommended list"
+            ]
+          }
+        }
+      },
+      {
+        "name": "ICELAND",
+        "overallWriteup": "",
+        "cities": {
+          "Reykjavik": {
+            "name": "Reykjavik",
+            "kosherFood": [
+              "Chabad opened a branch in Reykjavik to attend to your Shabbat and kosher food needs"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "Consider renting a campervan for flexible accommodations"
+            ],
+            "activities": [
+              "Visit the Golden Circle with stops like Gulfoss waterfall",
+              "Explore the South coast from Reykjavik to Jökulsárlón Iceberg Lagoon",
+              "Discover the Snæfellsjökull Peninsula"
+            ],
+            "other": [
+              "No established Jewish community in Iceland"
+            ]
+          }
+        }
+      },
+      {
+        "name": "SWITZERLAND",
+        "overallWriteup": "",
+        "cities": {
+          "Lugano": {
+            "name": "Lugano",
+            "kosherFood": [
+              "Random 50: Chabad in Lugano, Italy provides kosher meals"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Interlaken": {
+            "name": "Interlaken",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Interlaken recommended as a good base in Switzerland for visiting mountains/lake towns in the summer"
+            ],
+            "activities": [
+              "Interlaken provides access to top spots for day trips"
+            ],
+            "other": []
+          },
+          "St_Moritz": {
+            "name": "St Moritz",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Zermatt": {
+            "name": "Zermatt",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Andermatt": {
+            "name": "Andermatt",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Consider Andermatt as a potential destination"
+            ]
+          },
+          "Zurich": {
+            "name": "Zurich",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "ANDORRA",
+        "overallWriteup": "",
+        "cities": {
+          "Andorra_La_Vella": {
+            "name": "Andorra La Vella",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Tiny Jewish community with a synagogue to visit in Andorra La Vella",
+              "Beautiful views in Andorra with tax-free shopping and cable cars for skiing or sightseeing"
+            ],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "GEORGIA",
+        "overallWriteup": "",
+        "cities": {
+          "Tbilisi": {
+            "name": "Tbilisi",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Contact Chabad Rabbi Meir Kozlovsky in Tbilisi, Georgia for kosher food and minyan information"
+            ]
+          }
+        }
+      },
+      {
+        "name": "ROMANIA",
+        "overallWriteup": "",
+        "cities": {
+          "Chernivtsy": {
+            "name": "Chernivtsy",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "JORDAN",
+        "overallWriteup": "",
+        "cities": {
+          "Petra": {
+            "name": "Petra",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "For entering Petra, consider booking directly through Israir for the option to use an American credit card. Look for cheaper guides and options to explore the ancient city"
+            ],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "ISRAEL",
+        "overallWriteup": "",
+        "cities": {
+          "Mul_Hayam": {
+            "name": "Mul Hayam",
+            "kosherFood": [
+              "Mul Hayam restaurant near the beach offers good milchig options"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Enjoy a fantastic view and good food at Mul Hayam, great for watching the sunset"
+            ],
+            "other": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "region": "Western Europe",
+    "countries": [
+      {
+        "name": "FRANCE",
+        "overallWriteup": "",
+        "cities": {
+          "Paris": {
+            "name": "Paris",
+            "kosherFood": [
+              "(2022) Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Groupon has listings for kosher restaurants in Paris",
+              "Check local lists for kosher options in Paris",
+              "Several kosher restaurants and bakeries in Paris",
+              "Check with local Chabad for kosher dining options",
+              "Pitzman: Dairy store option in Paris",
+              "L'as du Fallafel: Known for meat dishes, located at 32 Rue des Rosiers",
+              "Check with local authorities for kosher certification of Haagen-Dazs ice cream in the USA",
+              "Kosher bread/hotdog buns available in France",
+              "(2017) Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status",
+              "Kosher bakeries available near Darjiling Restaurant in Paris",
+              "Kosher restaurants available in Paris",
+              "Kosher restaurants available in Paris for dining options",
+              "Numerous kosher restaurants and bakeries available in the Jewish quarter of Le Marais in Paris",
+              "Consistoire Android app available for kosher information",
+              "Check with local Chabad for updated kosher food recommendations",
+              "Confirm the kosher status of Laduree before dining there",
+              "(2022) Kosher stores available in Paris for pre-packaged food",
+              "Kosher restaurants and markets available in the Jewish quarter of Le Marais",
+              "(7500) Il Palazzo: Kosher cafe located at 17 Rue la Fayette, 75009 Paris, France. Contact: +33 1 48 74 60 31",
+              "Inquire about kosher restaurants and cafes in Paris for a variety of options",
+              "Enjoy kosher dining at various restaurants and bakeries in the Jewish quarter of Le Marais",
+              "Check with local Chabad for updated kosher food options",
+              "Check Consistoire website for kosher product search",
+              "Check out the kosher supermarkets and delis for a wide selection of products",
+              "Kosher markets for groceries and snacks",
+              "Kosher options available in Vendome neighborhood, Champs Elees, and Pletzl area in Paris",
+              "Check out The Kosher App by Chaim Gross for kosher restaurant recommendations",
+              "No specific kosher food recommendations mentioned",
+              "(2017) Kosher stores available in Paris for pre-packaged food",
+              "Visit Macabi restaurant in Barcelona for real good Spanish food",
+              "Verify kosher status of products like M&Ms and Lay's potato chips in Paris"
+            ],
+            "minyanim": [
+              "Chabad of Paris available for services",
+              "(2022) Check with local synagogues for minyanim schedule",
+              "Check with local Chabad for minyanim in Paris",
+              "Chabad of Paris available for minyanim",
+              "Multiple synagogues and Chabad centers in Paris for minyanim",
+              "Chabad of Paris located on Champs Elysees",
+              "No specific minyanim recommendations mentioned",
+              "Multiple synagogues in Paris area for prayer services",
+              "Attend minyanim at local synagogues or Chabad centers in Paris",
+              "Multiple synagogues in Paris area",
+              "(2017) Multiple synagogues in Paris area",
+              "Contact local Chabad for minyanim information",
+              "Beis din hechsher available for kosher supervision",
+              "Multiple synagogues in different neighborhoods",
+              "(2017) Chabad of Paris available for minyanim",
+              "Multiple synagogues in Paris area for minyanim",
+              "(2022) Chabad of Paris available for minyanim",
+              "Explore the historic synagogues and Jewish heritage sites in the city"
+            ],
+            "accommodations": [
+              "Various hotels available in Paris for accommodation choices",
+              "Wide range of hotels and vacation rentals in various neighborhoods of Paris",
+              "Various hotels and Airbnb options in different parts of Paris",
+              "(2017) Various hotels available in Paris",
+              "Consider accommodations in the Marais district for proximity to Jewish sites",
+              "(2022) Check with local Chabad for accommodation recommendations",
+              "No specific accommodations recommendations mentioned",
+              "Consider staying at a Jewish hotel in Zhitomer, Ukraine for a unique experience",
+              "Choose hotels in areas with easy access to kosher facilities and synagogues",
+              "Check out Yakimono for great sushi and French fries",
+              "Various hotels available in Paris, including near Four Seasons",
+              "Consider renting apartments with kosher kitchens for more flexibility",
+              "Hotels in Paris with kosher breakfast options",
+              "(2022) Various hotels available in Paris",
+              "Consider staying in Le Marais for proximity to kosher amenities",
+              "Check with local Chabad for accommodation recommendations",
+              "Various hotels available in Paris",
+              "(2017) Check with local Chabad for accommodation recommendations"
+            ],
+            "activities": [
+              "Explore Jewish historical sites in Paris",
+              "Explore the Marais Jewish quarter",
+              "Explore the Louvre Museum",
+              "(2022) Visit Jewish historical sites in Paris",
+              "(2022) Explore the Louvre Museum and Eiffel Tower",
+              "Explore the Jewish history in Le Marais district",
+              "Visit historical landmarks like the Eiffel Tower and Louvre Museum",
+              "Visit iconic landmarks like the Eiffel Tower, Louvre Museum, and Notre Dame Cathedral",
+              "Visit the Louvre Museum and Eiffel Tower",
+              "Take a Seine River cruise for a different view of the city",
+              "Possibility of finding shabbos meals in Paris",
+              "Consider taking a cab to Eiffel Tower and Arch De Triumph for a convenient tour",
+              "Explore the Louvre Museum and Eiffel Tower in Paris",
+              "Consider getting skip-the-line tickets for attractions like the Eiffel Tower in Paris",
+              "Visit Jewish historical sites in Paris",
+              "Explore the beauty of Paris, visit iconic landmarks like the Eiffel Tower and Louvre Museum",
+              "Visit local kosher restaurants and bakeries",
+              "Explore the Vendome neighborhood and Champs Elees",
+              "Extremely close to Eiffel Tower for a quick visit",
+              "Tour sites with timed tickets to guarantee entry",
+              "No specific activities recommendations mentioned",
+              "(2017) Eiffel Tower and Louvre Museum nearby",
+              "Enjoy dairy options in Tel Aviv, look for Rabbanut Mehadrin or better certifications",
+              "(2017) Jewish historical sites in Paris",
+              "Explore the charming neighborhoods, cafes, and boutiques of Paris"
+            ],
+            "other": [
+              "Mask regulations vary, check specific rules for public places and transportation",
+              "Visit the historic Jewish cemetery in the Père Lachaise Cemetery in Paris",
+              "Check Godaven or contact the synagogues for minyan information",
+              "Take a Seine River cruise for a scenic view of the city",
+              "Use reliable kosher websites for up-to-date information on kosher establishments",
+              "Verify glatt kosher status with specific establishments",
+              "Use KosherQuest.org for reliable kosher information in Paris",
+              "Check hashgacha carefully for glatt meat in Paris",
+              "For kosher milk in Paris, check out Hypercasher or Leader Cash supermarkets",
+              "Contact Chabad of Paris for current kosher food status",
+              "Immerse yourself in the art, history, and culinary delights of Paris",
+              "Contact local Chabad in Paris for current kosher food options",
+              "It's a big community. Walk into any of the shuls or restaurants in Paris and ask around for kosher options",
+              "Not all Paris restaurants close for the summer. Some remain open in August, providing plenty of dining options.",
+              "(2017) Use KosherQuest.org for reliable kosher information",
+              "Refer to local kosher guides for up-to-date information",
+              "Take guided tours to learn about the Jewish heritage and contributions in France",
+              "Use The Kosher App for hechsher information",
+              "Check for flights from Dublin as it's a hub for easy connections",
+              "Check out YeahThatsKosher.com for top kosher restaurants in Paris",
+              "Check for kosher products like M&Ms and Lay's potato chips in Paris",
+              "Check with Chabad of Paris for updated kosher restaurant listings",
+              "Contact local resources for kosher food lists in France",
+              "Contact Chabad in Paris for more kosher food recommendations",
+              "Use KosherParis.org for reliable kosher information",
+              "Contact Chabad of Paris for information on kosher food options and minyanim",
+              "Explore kosher options at Mickys Deli in Paris",
+              "Check official French government website for updated entry requirements and COVID-19 regulations",
+              "Contact Chabad of Paris for assistance with kosher needs",
+              "(2022) Use YeahThatsKosher.com for reliable kosher restaurant information",
+              "(2022) Contact Chabad of Paris for current kosher food options",
+              "(2017) Contact Chabad of Paris for current kosher food status"
+            ]
+          },
+          "French_Alps": {
+            "name": "French Alps",
+            "kosherFood": [
+              "Check out kosher hotels in the French Alps for specific kosher dining options"
+            ],
+            "minyanim": [
+              "Horowitz B: Check out Arosa in Switzerland, they have a kosher hotel all year round",
+              "Chabad presence in the French Alps, inquire for minyanim schedules"
+            ],
+            "accommodations": [],
+            "activities": [
+              "Beautiful destination for families with children"
+            ],
+            "other": [
+              "Refer to provided link for more information on kosher hotels in France"
+            ]
+          },
+          "Champs_Elysees": {
+            "name": "Champs Elysees",
+            "kosherFood": [
+              "(1867) List of Kosher restaurants and cafes in the area available at http://www.chabadchampselysees.com/templates/articlecco_cdo/aid/1867583/jewish/Kosher-Restaurants-and-stores-near-us.htm"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Damyel chocolate store located a block away, a must-visit if you have time"
+            ]
+          },
+          "Troyes": {
+            "name": "Troyes",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore Jewish historical sites in Troyes, home of Rashi"
+            ],
+            "other": []
+          },
+          "Chicago": {
+            "name": "Chicago",
+            "kosherFood": [
+              "Kens has the best popcorn chicken in the world"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "River tour and Willis Tower for views",
+              "Millennium Park has an ice rink and an ice ribbon"
+            ],
+            "other": []
+          },
+          "Strasbourg": {
+            "name": "Strasbourg",
+            "kosherFood": [
+              "Kosher options available in Strasbourg",
+              "Check with local community for kosher food options in Strasbourg",
+              "Check with local Jewish community for recommendations"
+            ],
+            "minyanim": [
+              "Synagogue in Strasbourg for minyanim",
+              "Contact local Chabad for prayer times",
+              "Inquire at local synagogues or Chabad for minyan times"
+            ],
+            "accommodations": [
+              "Consider staying in the city center for convenience",
+              "Look for accommodations near Jewish community centers for convenience",
+              "Hotels and guesthouses in Strasbourg"
+            ],
+            "activities": [
+              "Explore the historic district of Strasbourg",
+              "Explore the historic city center of Strasbourg",
+              "Visit the Strasbourg Cathedral"
+            ],
+            "other": [
+              "Respect local customs and traditions",
+              "Contact local Chabad for updated information on kosher facilities",
+              "Check with local Chabad for updated kosher food options"
+            ]
+          },
+          "Metz": {
+            "name": "Metz",
+            "kosherFood": [
+              "Plan ahead or bring your own kosher food",
+              "Limited kosher options in Metz"
+            ],
+            "minyanim": [
+              "Synagogue in Metz for prayer services",
+              "Confirm minyan times with local Jewish community"
+            ],
+            "accommodations": [
+              "Consider Airbnb for more flexibility",
+              "Accommodation choices in Metz"
+            ],
+            "activities": [
+              "Visit the Metz Cathedral",
+              "Explore the local markets in Metz"
+            ],
+            "other": [
+              "Enjoy the peaceful atmosphere of Metz",
+              "Contact local Jewish community for kosher dining recommendations"
+            ]
+          },
+          "South_of_France": {
+            "name": "South of France",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Mykonos": {
+            "name": "Mykonos",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Seek recommendations for decently priced hotels in Mykonos"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Nice": {
+            "name": "Nice",
+            "kosherFood": [
+              "Check with local Chabad for up-to-date kosher food recommendations",
+              "Kosher restaurants and options available in Nice, France"
+            ],
+            "minyanim": [
+              "Synagogues in the Nice area for prayer services",
+              "Chabad of Nice available for minyanim",
+              "Contact Chabad of Nice for minyanim information"
+            ],
+            "accommodations": [
+              "Check with local Chabad for accommodation recommendations",
+              "Consider checking with Chabad for accommodation suggestions",
+              "Various hotels and accommodations in Nice",
+              "Various hotels available in Nice"
+            ],
+            "activities": [
+              "Enjoy the Mediterranean Sea and beaches in Nice",
+              "Explore the beautiful city of Nice",
+              "Enjoy the Mediterranean Sea"
+            ],
+            "other": [
+              "Check with Chabad for kosher food options in Nice",
+              "Use KosherQuest.org for reliable kosher information",
+              "Contact Chabad of Nice for current kosher food options",
+              "Utilize KosherQuest.org for reliable kosher information"
+            ]
+          },
+          "Cannes": {
+            "name": "Cannes",
+            "kosherFood": [
+              "Moye and Le Tov offer Shabbat meals",
+              "Chabad Lubavitch Cannes in France offers kosher food options under supervision",
+              "Check Chabad of Cannes for kosher food options"
+            ],
+            "minyanim": [
+              "Multiple synagogues in Cannes area",
+              "Chabad Lubavitch Cannes in France provides minyanim services"
+            ],
+            "accommodations": [
+              "Various accommodation options available in Cannes",
+              "Various hotels available in Cannes"
+            ],
+            "activities": [
+              "Explore the beautiful city of Cannes",
+              "Enjoy the beaches and local attractions",
+              "Explore the old town and Le Suquet neighborhood",
+              "Enjoy the beautiful beaches of Cannes"
+            ],
+            "other": [
+              "Contact Chabad of Cannes for updated kosher dining information",
+              "Visit the Cannes Film Festival if timing aligns",
+              "Visit the Chabad Lubavitch Cannes website for more information",
+              "Contact Chabad Lubavitch Cannes for current kosher food availability"
+            ]
+          },
+          "Chamonix": {
+            "name": "Chamonix",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "CDG": {
+            "name": "CDG",
+            "kosherFood": [
+              "Check for kosher options at Charles de Gaulle Airport (CDG)",
+              "Inquire about kosher food delivery services in the CDG area"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "NETHERLANDS",
+        "overallWriteup": "",
+        "cities": {
+          "Amsterdam": {
+            "name": "Amsterdam",
+            "kosherFood": [
+              "Check http://www.nik.nl/kosher-restaurants-shops-and-food-in-the-netherlands/ for kosher restaurants in Amsterdam"
+            ],
+            "minyanim": [
+              "Chabad of Amsterdam offers daily minyanim, check their schedule for specific times"
+            ],
+            "accommodations": [
+              "Check with local resources for Shabbos accommodations"
+            ],
+            "activities": [
+              "Visit the Anne Frank House, Tulip Market, Portuguese Synagogue, and more in Amsterdam City Center",
+              "Popular attractions like Heineken Experience, Canal Cruise, and museums offer combo packages for value",
+              "Easy transportation around Amsterdam, including trains, trams, and buses",
+              "Anne Frank House: A historical site that offers insight into the life of Anne Frank during the Holocaust",
+              "Heineken Factory: Visit the famous brewery to learn about the beer-making process",
+              "Explore Zans Schans Windmills, Keukenhof Gardens, and take a Tulip/Windmill Tour outside the city",
+              "Jewish Museum: Explore the Jewish history and culture in Amsterdam",
+              "Explore the Jewish community in Amsterdam",
+              "Canal tour: Enjoy a relaxing boat tour through Amsterdam's picturesque canals"
+            ],
+            "other": [
+              "Purchase timed tickets online for Anne Frank's House to avoid long lines",
+              "Consider visiting windmills and tulip gardens if staying more than a day",
+              "Check out the Heineken Experience, Canal Cruise, Rijksmuseum, and more in Amsterdam"
+            ]
+          }
+        }
+      },
+      {
+        "name": "SWITZERLAND",
+        "overallWriteup": "",
+        "cities": {
+          "Zurich": {
+            "name": "Zurich",
+            "kosherFood": [
+              "Olive Garden offers kosher options in Zurich"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Contact Starguest program in Switzerland for local recommendations",
+              "Explore kosher dining options in Zurich",
+              "List available in Switzerland for all kosher products"
+            ]
+          },
+          "Lucerne": {
+            "name": "Lucerne",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Check local resources for kosher dining options in Lucerne"
+            ]
+          },
+          "Engelberg": {
+            "name": "Engelberg",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Explore local dining options for kosher food in Engelberg"
+            ]
+          },
+          "St_Moritz": {
+            "name": "St Moritz",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Random 53 (Nachi Pruzansky) recommends Kempinski St Moritz for hotels with possible Kosher programs or nearby options"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Zermatt": {
+            "name": "Zermatt",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Geneva": {
+            "name": "Geneva",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "GERMANY",
+        "overallWriteup": "",
+        "cities": {
+          "Berlin": {
+            "name": "Berlin",
+            "kosherFood": [
+              "Chabad restaurant available in Berlin",
+              "Check the list on rabbiscer.org for kosher food options in Germany",
+              "Visit kosher-germany.com for more kosher food information",
+              "Kosher restaurants and markets available in Berlin",
+              "Check with Chabad Berlin for kosher certification details"
+            ],
+            "minyanim": [
+              "Multiple synagogues in the city for prayer services",
+              "Chabad of Berlin offers daily minyanim"
+            ],
+            "accommodations": [
+              "Consider accommodations near Jewish Quarter for convenience",
+              "Range of hotels and guesthouses in Berlin"
+            ],
+            "activities": [
+              "Explore the Berlin Wall and Checkpoint Charlie",
+              "Visit the Jewish Museum and Holocaust Memorial"
+            ],
+            "other": [
+              "Verify kosher food options with Chabad Berlin",
+              "Check local Jewish community websites for minyan schedules"
+            ]
+          }
+        }
+      },
+      {
+        "name": "SPAIN",
+        "overallWriteup": "",
+        "cities": {
+          "Barcelona": {
+            "name": "Barcelona",
+            "kosherFood": [
+              "(2018) - Barcelona has a couple of kosher restaurants that most people really like",
+              "Kosher restaurants available in Barcelona",
+              "Shaq Shuq: A kosher restaurant offering a variety of Middle Eastern and Mediterranean dishes",
+              "Kosher restaurants in Barcelona serving a variety of traditional Jewish dishes",
+              "Check with local Jewish community for kosher recommendations",
+              "Kosher markets for grocery shopping in Barcelona",
+              "Check http://www.jewishbarcelona.org/ for kosher food options",
+              "(2018) - Barcelona has Makabi that has good food at a well-priced, and Chabad that offers good breakfast options",
+              "Check with local Jewish community for updated kosher restaurant recommendations",
+              "Kosher options available in Barcelona, check local resources for details",
+              "Kosher restaurants available in Barcelona offering a variety of cuisines",
+              "Check with local Jewish community for kosher options",
+              "Limited kosher options in Barcelona, plan ahead",
+              "Kosher options available in Barcelona, recommend checking with local Jewish community for specific recommendations",
+              "Chabad of Barcelona provides kosher food options",
+              "Kosher meals available at various restaurants and markets in Barcelona",
+              "Kosher restaurants in Barcelona offering a variety of cuisines",
+              "Try traditional Sephardic dishes at local kosher eateries",
+              "Check with local Chabad for kosher food recommendations",
+              "Kosher food options available near Chabad in Barcelona",
+              "Check with local Chabad for updated kosher dining options"
+            ],
+            "minyanim": [
+              "Chabad of Barcelona offers services",
+              "Synagogues in Barcelona for minyanim",
+              "Minyanim accessible in Barcelona",
+              "Multiple synagogues in Barcelona for prayer services",
+              "Chabad of Barcelona available for services",
+              "Chabad available in Barcelona for Shabbat services",
+              "Several synagogues in Barcelona with daily minyanim",
+              "Chabad of Barcelona offers daily minyanim and Shabbat services",
+              "Chabad of Barcelona organizes daily minyanim",
+              "Walking tour with a guide recommended",
+              "Chabad of Barcelona for minyanim and Jewish community gatherings",
+              "Several synagogues in Barcelona for minyanim",
+              "Synagogues in Barcelona for prayer gatherings",
+              "Chabad of Barcelona provides prayer services and Jewish resources",
+              "No specific minyanim information provided",
+              "Synagogue in Barcelona for minyanim",
+              "Research reliable sources for minyanim in Barcelona",
+              "Chabad of Barcelona available for minyanim",
+              "Multiple synagogues in Barcelona with prayer services",
+              "Chabad of Barcelona provides daily minyanim and Shabbat services",
+              "Multiple synagogues in the Barcelona area",
+              "Book meals by the shul/Chabad online",
+              "Chabad of Barcelona offers daily minyanim",
+              "Multiple synagogues in Barcelona area"
+            ],
+            "accommodations": [
+              "Various hotels and apartments in Barcelona city center",
+              "Various hotels and vacation rentals in Barcelona",
+              "Consider driving 3 hours to Andorra for a mountainous experience",
+              "Consider staying near the Jewish quarter for easy access to kosher facilities",
+              "Hotels in Barcelona with easy access to kosher restaurants",
+              "Look for accommodations near Jewish areas in Barcelona",
+              "Variety of hotels in Barcelona",
+              "Consider staying in the Eixample district for easy access to Jewish sites",
+              "Consider accommodations near the Gothic Quarter for a central location",
+              "Hotels in Barcelona with kosher food options upon request",
+              "Consider accommodations near Jewish quarter for convenience",
+              "Range of hotels and apartments in Barcelona",
+              "No specific accommodation information provided",
+              "Various hotels and rental options in Barcelona, consider staying in the Eixample neighborhood for proximity to Jewish sites",
+              "Range of hotels and vacation rentals in Barcelona",
+              "Hotels and vacation rentals available in Barcelona",
+              "Check with local Chabad for accommodation recommendations",
+              "Consider kosher-friendly accommodations",
+              "Various hotels available in Barcelona",
+              "Consider kosher apartment listings for accommodation in Barcelona"
+            ],
+            "activities": [
+              "No specific activities information provided",
+              "Enjoy the beaches and vibrant atmosphere of the city",
+              "Enjoy the beautiful beaches of Barcelona",
+              "Visit Park Guell",
+              "Take a stroll along the famous Las Ramblas street",
+              "Explore the iconic architecture of Antoni Gaudí",
+              "Consider a day trip to Andorra between France and Spain",
+              "Explore the Gothic Quarter and visit the Sagrada Familia",
+              "Explore the vibrant city of Barcelona",
+              "Beautiful beaches 1 hour away from Barcelona",
+              "Explore Gothic Quarter in Barcelona",
+              "Explore Jewish history in Barcelona",
+              "Explore the Gothic Quarter and Jewish Quarter in Barcelona",
+              "Take a walk along La Rambla and enjoy the local cuisine",
+              "Explore the historic Jewish quarter in Barcelona",
+              "Relax on the beaches of Barceloneta",
+              "Visit iconic attractions like Sagrada Familia and Park Guell",
+              "Visit famous attractions like Sagrada Familia and Park Guell",
+              "Visit famous attractions like Sagrada Familia",
+              "Stroll down Las Ramblas and visit the Sagrada Familia",
+              "Barcelona offers stunning architecture by Gaudi, beautiful beaches, and delicious Spanish cuisine.",
+              "Visit local attractions and museums",
+              "Explore Jewish heritage sites in Barcelona",
+              "Visit Park Guell, Sagrada Familia, and La Rambla for a taste of the city's vibrant culture.",
+              "Explore the Jewish history at the Barcelona Jewish Quarter",
+              "Explore the Gothic Quarter and visit the Barcelona Cathedral"
+            ],
+            "other": [
+              "Enjoy the lively atmosphere and rich history of Barcelona",
+              "Don't miss trying authentic paella and tapas in Barcelona.",
+              "Consider joining a Jewish heritage tour in Barcelona",
+              "Michelin-Star Restaurant Xerta available one day a week, dairy menu",
+              "Explore the Gothic Quarter for a mix of history and modernity.",
+              "Confirm kosher food availability with local resources",
+              "Use KosherSpain.com for kosher travel resources",
+              "Use KosherDelight app for kosher restaurant reviews in Barcelona",
+              "Check with local Chabad for updated kosher food options",
+              "Use KosherQuest.org for reliable kosher information",
+              "Experience the unique blend of Spanish and Jewish culture in Barcelona",
+              "Plan ahead for Shabbat accommodations",
+              "Check with Chabad of Barcelona for kosher catering options",
+              "Contact Chabad for Shabbat hospitality options",
+              "Use KosherTravelInfo.com for more kosher travel tips",
+              "Contact Chabad of Barcelona for assistance with kosher needs",
+              "Visit JewishBarcelona.org for specific kosher recommendations",
+              "Join guided tours to learn about Barcelona's Jewish heritage",
+              "Check with Chabad for kosher food options in Barcelona",
+              "Contact Chabad of Barcelona for updated kosher restaurant information",
+              "Plan kosher meals in advance due to limited options",
+              "Verify the reliability and dates of information before relying on it",
+              "Check online resources for kosher grocery stores in Barcelona",
+              "Check with Chabad of Barcelona for updated kosher food options",
+              "Contact Chabad for more information on accommodations and kosher options",
+              "Check with local Chabad for updated kosher restaurant recommendations",
+              "Contact Chabad of Barcelona for current kosher food listings",
+              "Contact Chabad of Barcelona for current kosher food status",
+              "Contact Chabad of Barcelona for Shabbat hospitality options"
+            ]
+          }
+        }
+      },
+      {
+        "name": "IRELAND",
+        "overallWriteup": "",
+        "cities": {
+          "Dublin": {
+            "name": "Dublin",
+            "kosherFood": [
+              "Kosher food available at Chabad store and restaurant in Dublin",
+              "Check for kosher lists or resources in Ireland"
+            ],
+            "minyanim": [
+              "Orthodox shul within walking distance on Shabbos in Dublin",
+              "Contact local Jewish community for assistance",
+              "Verify availability of minyanim in Dublin"
+            ],
+            "accommodations": [
+              "Plan ahead and contact local Jewish organizations for recommendations",
+              "Hotel close to Chabad rabbi's house in Dublin",
+              "Limited kosher accommodations in Ireland"
+            ],
+            "activities": [
+              "Explore Dublin's cultural attractions",
+              "Visit the Guinness factory in Dublin",
+              "Enjoy the scenic beauty of Ireland's countryside"
+            ],
+            "other": [
+              "Check with local Chabad or Jewish community for kosher resources",
+              "Contact Chabad for kosher food options and recommendations in Dublin"
+            ]
+          }
+        }
+      },
+      {
+        "name": "PORTUGAL",
+        "overallWriteup": "",
+        "cities": {
+          "Lisbon": {
+            "name": "Lisbon",
+            "kosherFood": [
+              "Check with local resources for kosher food options in Lisbon",
+              "Kosher food options available in Lisbon, including kosher restaurants and grocery stores. Check with local Jewish community for recommendations."
+            ],
+            "minyanim": [
+              "Synagogues in Lisbon offer daily minyanim and Shabbat services. Contact local Chabad for more information."
+            ],
+            "accommodations": [
+              "Various hotels and accommodations in Lisbon suitable for different budgets. Consider staying in the historic center for easy access to attractions."
+            ],
+            "activities": [
+              "Enjoy a scenic tram ride through the city or take a day trip to Sintra to see the colorful Pena Palace.",
+              "Explore the historic neighborhoods of Alfama and Belem in Lisbon. Visit iconic landmarks such as Jeronimos Monastery and Sao Jorge Castle.",
+              "Visit the Portuguese Synagogue in Lisbon",
+              "Enjoy a canal cruise in the city"
+            ],
+            "other": [
+              "Don't miss trying traditional Portuguese dishes like Pastéis de Nata and Bacalhau. Check for kosher options at local eateries.",
+              "Contact locals for travel tips and suggestions for Lisbon, Portugal",
+              "Check for kosher dining options in Lisbon",
+              "Consider exploring other attractions like the Anne Frank house, Flower Market, and Heineken Experience"
+            ]
+          },
+          "Paris": {
+            "name": "Paris",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Porto": {
+            "name": "Porto",
+            "kosherFood": [
+              "Limited kosher food options in Porto. Plan ahead and stock up on kosher snacks or pre-packaged meals."
+            ],
+            "minyanim": [
+              "Synagogue in Porto with scheduled minyanim. Contact local Jewish community for prayer times and services."
+            ],
+            "accommodations": [
+              "Charming guesthouses and boutique hotels available in Porto. Consider staying near the historic Ribeira district for a picturesque experience."
+            ],
+            "activities": [
+              "Explore the colorful streets of Porto and visit the famous Lello Bookstore. Don't miss a river cruise on the Douro for stunning views of the city.",
+              "Taste port wine in the cellars of Vila Nova de Gaia and savor traditional Portuguese cuisine at local restaurants."
+            ],
+            "other": [
+              "Check with Chabad or local Jewish community for updated information on kosher facilities and services in Porto."
+            ]
+          }
+        }
+      },
+      {
+        "name": "UNITED KINGDOM",
+        "overallWriteup": "",
+        "cities": {
+          "London": {
+            "name": "London",
+            "kosherFood": [
+              "Wide range of kosher restaurants and eateries in London catering to different tastes. Explore Jewish neighborhoods like Golders Green for authentic cuisine.",
+              "Kosher restaurants available in London offering a variety of cuisines",
+              "Kosh and Back Yard BBQ offer Shabbos meals in London",
+              "Check isitkosher.uk for kosher product verification",
+              "Check with local Jewish community for updated kosher food options"
+            ],
+            "minyanim": [
+              "Several synagogues and Chabad centers in London for daily minyanim",
+              "Chabad of London provides Shabbat services and meals",
+              "Numerous synagogues and Jewish community centers in London with daily minyanim and Shabbat services. Check local listings for prayer times."
+            ],
+            "accommodations": [
+              "Range of hotels in London with varying levels of service and amenities",
+              "Consider staying in areas with easy access to kosher facilities",
+              "Diverse accommodation options in London, from luxury hotels to budget-friendly hostels. Stay in central areas like Covent Garden or Kensington for easy access to attractions."
+            ],
+            "activities": [
+              "Take a day trip to Stonehenge or Windsor Castle for a glimpse of British history and culture.",
+              "Visit iconic landmarks such as Buckingham Palace, Tower Bridge, and the British Museum. Explore the vibrant markets of Camden Town and indulge in West End theater shows.",
+              "Explore historical landmarks such as the Tower of London and Westminster Abbey",
+              "Free walking tours available in London, including tours to Buckingham Palace"
+            ],
+            "other": [
+              "Plan your itinerary around kosher dining hours and Shabbat observance. Check with local Jewish organizations for updated information on minyanim and kosher facilities.",
+              "Book tours and attractions online to secure reservations",
+              "Use public transportation like the underground for efficient travel within London"
+            ]
+          },
+          "Edinburgh": {
+            "name": "Edinburgh",
+            "kosherFood": [
+              "Kosher options available at Chabad in Edinburgh",
+              "Kosher establishment in Glasgow as well"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Glasgow": {
+            "name": "Glasgow",
+            "kosherFood": [
+              "Kosher options available at Chabad in Glasgow"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "BELGIUM",
+        "overallWriteup": "",
+        "cities": {
+          "Brussels": {
+            "name": "Brussels",
+            "kosherFood": [
+              "Kosher restaurants and stores available in Brussels",
+              "Check with local Jewish community for recommendations"
+            ],
+            "minyanim": [
+              "Chabad of Brussels also provides minyan services",
+              "Synagogues in Brussels offer daily minyanim"
+            ],
+            "accommodations": [
+              "Various hotels and accommodations in Brussels",
+              "Consider staying in the Jewish Quarter for proximity to amenities"
+            ],
+            "activities": [
+              "Explore the Grand Place in Brussels",
+              "Visit Jewish community in Brussels",
+              "Visit the Atomium and European Parliament"
+            ],
+            "other": [
+              "Check local websites for up-to-date minyan schedules",
+              "Contact Chabad of Brussels for kosher food guides"
+            ]
+          },
+          "Antwerp": {
+            "name": "Antwerp",
+            "kosherFood": [
+              "Emunah Travel: Ember, Vicos, Italian kosher, and Chabad Kosher Hotspot"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "AirBnB apartment search in the Jewish neighborhood of Antwerp, Belgium for a couple and a baby"
+            ],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "ITALY",
+        "overallWriteup": "",
+        "cities": {
+          "Rome": {
+            "name": "Rome",
+            "kosherFood": [
+              "Use KosherQuest.org for reliable kosher information",
+              "Check with Chabad for current kosher food options in Rome",
+              "Use KosherQuest.org for reliable kosher information in Rome",
+              "Contact Chabad of Rome for current kosher food status",
+              "Kosher stores available in Rome, Venice, and Milan for pre-packaged food"
+            ],
+            "minyanim": [
+              "Multiple synagogues in Rome area",
+              "Chabad of Rome available for minyanim"
+            ],
+            "accommodations": [
+              "Check with local Chabad for accommodation recommendations",
+              "Check with local Chabad for accommodation recommendations in Rome",
+              "Various hotels available in Rome"
+            ],
+            "activities": [
+              "Explore Jewish historical sites in Rome",
+              "Vatican City nearby",
+              "Jewish historical sites in Rome",
+              "Visit Vatican City nearby"
+            ],
+            "other": [
+              "Use KosherQuest.org for reliable kosher details",
+              "Check with local resources for kosher food options in Rome",
+              "Verify current kosher status with relevant authorities",
+              "Contact Chabad of Rome for up-to-date kosher food information"
+            ]
+          },
+          "Tuscany": {
+            "name": "Tuscany",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore Tuscany by car or train, with car offering more flexibility. Drive through small towns with interesting sites. Visit the kosher winery Tierra de Seta in Tuscany"
+            ],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "MONACO",
+        "overallWriteup": "",
+        "cities": {
+          "Monaco": {
+            "name": "Monaco",
+            "kosherFood": [
+              "Consider bringing some pre-packaged kosher food",
+              "Limited kosher options in Monaco, recommend checking with local resources"
+            ],
+            "minyanim": [
+              "Check with local Jewish community for minyan times",
+              "Synagogue available in Monaco for prayer services"
+            ],
+            "accommodations": [
+              "Luxury hotels and accommodations in Monaco",
+              "Contact local resources for accommodation recommendations"
+            ],
+            "activities": [
+              "Visit the famous Monte Carlo Casino",
+              "Explore the glamorous city of Monaco"
+            ],
+            "other": [
+              "Verify kosher food availability with local sources",
+              "Plan ahead for kosher dining options in Monaco"
+            ]
+          }
+        }
+      },
+      {
+        "name": "ANDORRA",
+        "overallWriteup": "",
+        "cities": {
+          "Andorra": {
+            "name": "Andorra",
+            "kosherFood": [
+              "Michelin star kosher restaurant Xerta available on Wednesday nights with enough reservations"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Consider a 3-hour drive to Andorra for a different experience",
+              "Explore Jewish history in Girona and Besalu"
+            ],
+            "other": [
+              "Girona has a Jewish museum and Besalu offers a classic medieval setting"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "region": "Central Europe",
+    "countries": [
+      {
+        "name": "SWITZERLAND",
+        "overallWriteup": "",
+        "cities": {
+          "Interlaken": {
+            "name": "Interlaken",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Random 6: Opportunity to join a minyan in Interlaken with a group of guys on April 21-23"
+            ],
+            "other": []
+          },
+          "St_Moritz": {
+            "name": "St Moritz",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Consider staying nearby at a cheaper place and attending meals and davening at the Kempinski"
+            ],
+            "activities": [
+              "Enjoy the luxury and amenities of the Kempinski hotel",
+              "Enjoy skiing, snowboarding, and winter sports in St Moritz",
+              "Experience the luxury and beauty of St Moritz",
+              "Beautiful views and activities in St Moritz"
+            ],
+            "other": [
+              "Check with local resources for kosher food availability",
+              "Consider kosher meal options in St Moritz"
+            ]
+          },
+          "Arosa": {
+            "name": "Arosa",
+            "kosherFood": [
+              "Arosa offers kosher food options",
+              "Arosa in Switzerland has kosher hotel all year around"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "Consider staying in Arosa for kosher accommodation options",
+              "Kosher hotel available in Arosa all year round"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "St__Moritz": {
+            "name": "St. Moritz",
+            "kosherFood": [
+              "Kosher Luxury Hotel in St. Moritz Switzerland - Arieh Wagner - Starguest available, check https://starguest.com/stmoritz/ for details",
+              "liameliach: https://starguest.com/stmoritz/ - Kosher options available during certain dates in the summer"
+            ],
+            "minyanim": [
+              "liameliach: Minyanim available during certain dates in the summer"
+            ],
+            "accommodations": [
+              "liameliach: Check starguest.com for accommodations open during certain dates in the summer",
+              "St. Moritz offers kosher luxury hotel options",
+              "Check with local Chabad or kosher hotels for accommodation options in St. Moritz",
+              "Consider hotels in Davos, Arosa, and Scuol for kosher accommodations"
+            ],
+            "activities": [
+              "Enjoy the scenic beauty and outdoor activities in St. Moritz"
+            ],
+            "other": []
+          },
+          "Zurich": {
+            "name": "Zurich",
+            "kosherFood": [
+              "(2023) () Florentin restaurant in Zurich offers kosher dining options, make reservations in advance.",
+              "Check with Chabad in Zurich for kosher meal options",
+              "Check with local Chabad for updated kosher options",
+              "Check with local Chabad for kosher restaurant recommendations",
+              "(8002) Babi's Bagel Shop Bederstrasse 102, 8002 Zürich, Switzerland",
+              "Kosher restaurants and markets available in Zurich for kosher food options",
+              "Kosher restaurants and stores available in Zurich",
+              "Check with local Jewish community for kosher food recommendations",
+              "Kosher options available near Chabad in Zurich",
+              "Use the Swiss kosher app for updated list of kosher options in Zurich",
+              "Kosher restaurants in Zurich include Mendy's and Holy Bagels",
+              "Explore kosher food options in Zurich",
+              "Check out the full list of kosher options in Switzerland at https://chabad.ae/kosher/"
+            ],
+            "minyanim": [
+              "(2023) () Check with local Chabad for minyanim schedule in Zurich.",
+              "Reliable source for prayer services while in Zurich",
+              "Orh HaTorah Chabad in Zurich",
+              "Synagogues in Zurich for prayer services",
+              "Chabad of Zurich available for minyanim",
+              "Chabad of Zurich for minyanim and Jewish community services",
+              "Orthodox Ashkenazi community in Zurich with a famous old shul",
+              "Opportunity to dine with the Rabbi and Rebetzin of the shul",
+              "Minyanim available at Chabad in Zurich"
+            ],
+            "accommodations": [
+              "Various hotels and accommodations in Zurich city center",
+              "Range of hotels and accommodations in Zurich",
+              "Various hotels available in Zurich for a comfortable stay in the Swiss Alps",
+              "Consider checking with local Chabad for accommodation recommendations",
+              "(2023) () Look for hotels near the Chabad house in Zurich for convenient accommodation options.",
+              "Consider staying at Intercontinental or Four Seasons in Zurich",
+              "Consider contacting Chabad for accommodation assistance",
+              "Consider staying in the Jewish Quarter for proximity to amenities",
+              "Kosher hotels in Zurich catering to Jewish travelers",
+              "Various hotels available in Zurich",
+              "Consider staying near Orh HaTorah Chabad for convenience"
+            ],
+            "activities": [
+              "Visit local attractions in Zurich",
+              "Enjoy the Swiss Alps and scenic views near Zurich",
+              "Explore the city of Zurich",
+              "Consider visiting Zurich for a short trip",
+              "Explore the Old Town and Lake Zurich",
+              "Enjoy the scenic views and cultural attractions",
+              "(2023) () Take a stroll in the Old Town to admire the historic architecture.",
+              "Consider staying at a Chabad for Shabbos meals",
+              "Visit Zurich's Old Town for a charming cultural experience",
+              "Explore the beautiful city of Zurich",
+              "Explore the beautiful Swiss Alps for hiking, skiing, and breathtaking views",
+              "Explore the charming city of Zurich",
+              "Enjoy outdoor activities in the Swiss Alps",
+              "Enjoy the scenic views in Zurich",
+              "Explore the Old Town of Zurich",
+              "(2023) () Explore the Swiss National Museum and Lake Zurich for a taste of Swiss culture and natural beauty.",
+              "Flying into Zurich provides easy access to Interlaken, a good option for exploring important mountains and lake towns in Switzerland.",
+              "Enjoy a boat cruise on Lake Zurich"
+            ],
+            "other": [
+              "(2023) () Enjoy Swiss chocolates and cheeses during your visit.",
+              "Use KosherQuest.org for reliable kosher information in Zurich",
+              "Inquire about community events in Zurich",
+              "Swiss kosher app available for kosher information in Zurich",
+              "Check Isrotel branches for good hotel options in Zurich",
+              "Check Google for more kosher food options in Zurich",
+              "Contact Orh HaTorah Chabad for Shabbat meal arrangements",
+              "Use KosherTravelInfo.com for kosher travel tips",
+              "Verify current kosher food options with local resources",
+              "Zurich offers a variety of kosher dining options",
+              "(2023) () Contact Chabad in Zurich for information on kosher restaurants and services.",
+              "Look for day passes to 5-star hotels on Groupon for affordable options in Zurich",
+              "Contact Chabad of Zurich for current kosher food recommendations",
+              "Check with Chabad of Zurich for current kosher food recommendations",
+              "Contact Chabad in Zurich for up-to-date information on kosher facilities",
+              "Experience the Swiss hospitality with kosher amenities"
+            ]
+          },
+          "Stuttgart": {
+            "name": "Stuttgart",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Davos": {
+            "name": "Davos",
+            "kosherFood": [
+              "Davos has kosher food available throughout the year",
+              "Kosher food and minyanim available in Davos, Switzerland not in a hotel program. Check with local resources for specific recommendations"
+            ],
+            "minyanim": [
+              "Check for minyanim availability in Davos, Switzerland"
+            ],
+            "accommodations": [
+              "Looking for a Jewish hotel in Switzerland, specifically in Davos or any area near winter attractions",
+              "Explore Crest Resort for accommodation options in Davos, Switzerland",
+              "Hotel popular among Chassidim in Davos, suitable for kosher travelers",
+              "Kruger A: Anyone know of a good apartment rental in Davos, Switzerland"
+            ],
+            "activities": [],
+            "other": [
+              "Consider contacting a local tour guide for a more personalized experience in Davos, Switzerland"
+            ]
+          },
+          "Scuol": {
+            "name": "Scuol",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Newly renovated hotel in Scuol, about 45 minutes from St. Moritz, open all year round"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Adelboden": {
+            "name": "Adelboden",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Enjoy the scenic beauty of Adelboden"
+            ],
+            "other": []
+          },
+          "Zermatt": {
+            "name": "Zermatt",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Geneva": {
+            "name": "Geneva",
+            "kosherFood": [
+              "Limited kosher food options in Geneva",
+              "Inquire with local sources for kosher food options in Geneva, Switzerland",
+              "Kosher food and shul available in Geneva only"
+            ],
+            "minyanim": [
+              "Minyanim available in Geneva"
+            ],
+            "accommodations": [
+              "Various accommodation options in Geneva"
+            ],
+            "activities": [
+              "Chamonix / Mont Blanc area within 1-1.5 hours of Geneva, offering a lot of options for activities",
+              "Enjoy the beautiful city by the lake and parks along the shore",
+              "Consider heading to the French or Swiss Alps for more attractions"
+            ],
+            "other": [
+              "Consider visiting Avoriaz in Morzine for a great experience"
+            ]
+          },
+          "Maloja_Palace": {
+            "name": "Maloja Palace",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Unknown_City": {
+            "name": "Unknown City",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Hotel in Switzerland becomes kosher in the summer, inquire for details"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Alps": {
+            "name": "Alps",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Contact local Chabad or kosher establishments for up-to-date information on kosher food delivery options in the Alps"
+            ]
+          }
+        }
+      },
+      {
+        "name": "GERMANY",
+        "overallWriteup": "",
+        "cities": {
+          "Cologne": {
+            "name": "Cologne",
+            "kosherFood": [
+              "Chabad in Cologne offers kosher food options",
+              "Samber M: Inquire about kosher restaurants or kosher food availability in Cologne, Germany"
+            ],
+            "minyanim": [],
+            "accommodations": [
+              "Samber M: Seek recommendations for good hotels in Cologne, Germany",
+              "Check with local resources for recommended kosher-friendly hotels in Cologne"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Berlin": {
+            "name": "Berlin",
+            "kosherFood": [
+              "Chabad restaurant available in Berlin",
+              "Check with local Chabad in Berlin for up-to-date kosher food information",
+              "Check with Chabad Berlin for kosher food options",
+              "Try contacting Jewish-Berlin.com or YeahThatsKosher.com for kosher food options in Berlin",
+              "Contact Chabad Lubavitch Berlin for kosher dining options",
+              "No specific kosher food recommendations mentioned for Berlin"
+            ],
+            "minyanim": [
+              "Contact local Chabad in Berlin for information on synagogues and minyanim",
+              "Contact Chabad Berlin for minyanim information"
+            ],
+            "accommodations": [
+              "Various hotels available in Berlin",
+              "Consider reaching out to local Chabad for accommodation recommendations",
+              "Check with local Chabad in Berlin for recommended accommodations"
+            ],
+            "activities": [
+              "Explore the Grand Mosque in Berlin",
+              "Explore Jewish historical sites in Berlin"
+            ],
+            "other": [
+              "Stay updated on Lufthansa's travel policies",
+              "Seek assistance from travel agents for Berlin travel"
+            ]
+          },
+          "Frankfurt": {
+            "name": "Frankfurt",
+            "kosherFood": [
+              "Frankfurt offers a variety of kosher dining options, including restaurants and delis",
+              "Check with local Jewish community or Chabad for the most up-to-date kosher food recommendations"
+            ],
+            "minyanim": [
+              "Chabad of Frankfurt available for daily minyanim",
+              "Synagogues in Frankfurt for Shabbat services"
+            ],
+            "accommodations": [
+              "Several hotels in Frankfurt offer kosher amenities, such as kosher breakfast upon request"
+            ],
+            "activities": [
+              "Take a stroll along the River Main and visit the Palmengarten botanical garden",
+              "Explore the historic Römerberg square and St. Bartholomew's Cathedral",
+              "Inquire about tour guides and drivers for Frankfurt, Germany"
+            ],
+            "other": [
+              "Visit the Jewish Museum Frankfurt for a cultural experience",
+              "Attend a Jewish walking tour in Frankfurt to learn about the city's Jewish history",
+              "For a 4h 40m stopover in Frankfurt, it's probably better off staying in the airport due to security and time constraints"
+            ]
+          },
+          "Stuttgart": {
+            "name": "Stuttgart",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore the Mercedes-Benz Museum in Stuttgart",
+              "Visit the Wilhelma Zoo and Botanical Garden"
+            ],
+            "other": []
+          },
+          "Worms": {
+            "name": "Worms",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Visit Rashi's beis medrash and the rebuilt Worms synagogue",
+              "Check out the museum in Worms showcasing Jewish history"
+            ],
+            "other": [
+              "Contact local guides for updated information on Worms' Jewish heritage sites",
+              "Ensure to verify the current status of Rashi's mikve before planning a visit"
+            ]
+          },
+          "Michelstadt": {
+            "name": "Michelstadt",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Visit the kever of the Baal Shem of Michelstadt, located an hour away from Worms"
+            ],
+            "other": []
+          },
+          "Alps": {
+            "name": "Alps",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Various resorts in the Alps such as 'les 2 Alpes', 'l'alpes d'Huez', 'la Plagne', 'les Menuires' available for different preferences"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Alsace": {
+            "name": "Alsace",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Kosher accommodations in the Alsace region next to Germany, great for visiting Jewish historical sites and kvarim"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Antwerp": {
+            "name": "Antwerp",
+            "kosherFood": [
+              "Kosher restaurants available in Antwerp",
+              "Check with local Jewish community for recommendations"
+            ],
+            "minyanim": [
+              "Chabad of Antwerp available for prayer services",
+              "Synagogue in Antwerp for minyanim"
+            ],
+            "accommodations": [
+              "Various hotels and guesthouses in Antwerp",
+              "Consider staying in the Jewish Quarter for proximity to amenities"
+            ],
+            "activities": [
+              "Explore the Diamond District in Antwerp",
+              "Visit the Antwerp Zoo"
+            ],
+            "other": [
+              "Enjoy the cultural diversity of Antwerp",
+              "Check with local Chabad for updated kosher food options"
+            ]
+          },
+          "Munich": {
+            "name": "Munich",
+            "kosherFood": [
+              "Limited kosher restaurants in Munich, check local options",
+              "Grocery store available for kosher food supplies"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Germany": {
+            "name": "Germany",
+            "kosherFood": [
+              "L'INTE CAFFE recommended for great food"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "HUNGARY",
+        "overallWriteup": "",
+        "cities": {
+          "Budapest": {
+            "name": "Budapest",
+            "kosherFood": [
+              "Kosher restaurants in the Jewish Quarter",
+              "Check out the amazing dried meat store near the old Shul in Budapest",
+              "Try traditional Hungarian-Jewish dishes at local kosher eateries",
+              "Kosher restaurants and markets available in Budapest",
+              "Check online resources for kosher food options in Budapest",
+              "Kosher restaurants and grocery stores available in the Jewish Quarter",
+              "Try local Hungarian Jewish cuisine for a unique culinary experience",
+              "Look for kosher restaurants in Budapest for more dining options",
+              "Meals available through Chabad for Shabbos",
+              "Check for kosher restaurants in Budapest"
+            ],
+            "minyanim": [
+              "Multiple synagogues in Budapest area for minyanim",
+              "(2023) Multiple synagogues in Budapest area for minyanim",
+              "Daily minyanim at multiple synagogues in Budapest",
+              "Explore minyanim options in Budapest for prayer services",
+              "Synagogues in Budapest with regular prayer services",
+              "Shuls in the Jewish Quarter, including Kozincy Synagogue",
+              "Chabad of Budapest offers daily minyanim",
+              "Services at the Dohany Street Synagogue and Chabad of Budapest"
+            ],
+            "accommodations": [
+              "Hotels and apartments near the Danube River",
+              "Range of hotels and apartments in Budapest",
+              "(2023) Various hotels and Airbnb options available in Budapest",
+              "Ideal location to spend Shabbos",
+              "Plenty of cheap luxury hotels and Airbnbs within a few blocks' radius in the Jewish Quarter",
+              "(2023) Check with Chabad Budapest for accommodation recommendations",
+              "Look for accommodations with kosher breakfast options",
+              "Various hotels available in Budapest",
+              "Consider staying in the Jewish Quarter for proximity to kosher amenities",
+              "Consider contacting local Chabad for accommodation suggestions"
+            ],
+            "activities": [
+              "Explore the historic Jewish Quarter in Budapest",
+              "Scooter tours available to explore the city",
+              "Explore Andrassy rezidencia near Reb Shayala",
+              "Visit the Dohány Street Synagogue, the largest synagogue in Europe",
+              "Explore the Jewish Quarter in Budapest",
+              "Relax in the thermal baths and cruise the Danube River",
+              "Explore Jewish sites in Budapest",
+              "(2023) Explore historical sites in Budapest",
+              "(2023) Enjoy the Danube River and thermal baths",
+              "Jewish historical sites in the Jewish Quarter",
+              "Visit kevarim in the countryside",
+              "Visit historical sites in Budapest",
+              "Game reserves nearby with really nice resorts",
+              "Relax at Széchenyi Thermal Bath for a rejuvenating experience",
+              "Explore Buda Castle and Fisherman's Bastion"
+            ],
+            "other": [
+              "Some kevarim in Hungary require a phone call to the shomer for access",
+              "Attend Jewish cultural events in Budapest",
+              "Check for any entry exemptions or travel permits required for Hungary",
+              "(2023) Contact Chabad Budapest for current kosher food options",
+              "Avoid having a car in Budapest",
+              "Enjoy the thermal baths and cultural attractions in Budapest",
+              "Check with Chabad Budapest for Shabbat hospitality details",
+              "Plenty of tour options available in the city",
+              "Utilize online platforms for current kosher food information in Budapest",
+              "(2023) Use local resources for up-to-date information on kosher facilities"
+            ]
+          },
+          "Bratislava": {
+            "name": "Bratislava",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Consider staying in Budapest or Vienna for Shabbos, more options available",
+              "Restaurant just opened in Bratislava, worth checking out for kosher options"
+            ]
+          }
+        }
+      },
+      {
+        "name": "POLAND",
+        "overallWriteup": "",
+        "cities": {
+          "Warsaw": {
+            "name": "Warsaw",
+            "kosherFood": [
+              "Limited kosher food availability in stores, recommend checking with local community",
+              "Kosher restaurants available in Warsaw",
+              "Chabad in Warsaw for kosher food options",
+              "Check with local Jewish community for updated kosher food recommendations",
+              "Kosher food options available in Warsaw, including restaurants and grocery stores"
+            ],
+            "minyanim": [
+              "Multiple synagogues in Warsaw area for minyanim",
+              "Contact Chabad in Warsaw for minyan times and locations",
+              "Check with Chabad for minyan times",
+              "Jewish heritage sites with synagogues in Warsaw"
+            ],
+            "accommodations": [
+              "Various hotels and accommodations in Warsaw",
+              "Various hotels in Warsaw",
+              "Consider Airbnb options in the city",
+              "Consider staying in the city center for easy access to attractions and kosher facilities"
+            ],
+            "activities": [
+              "Explore Jewish historical sites in Warsaw",
+              "Hire a knowledgeable driver to visit Jewish sites in and around Warsaw",
+              "Visit the POLIN Museum of the History of Polish Jews",
+              "Explore Jewish heritage sites in Warsaw"
+            ],
+            "other": [
+              "Check local resources for current minyan schedules",
+              "Contact Chabad in Warsaw for updated kosher food information",
+              "Contact recommended driver for Warsaw and surrounding areas",
+              "Kosher food arrangements possible in Lublin and Lizhensk",
+              "Ensure to have necessary travel documents for entry into Poland",
+              "Check current COVID-19 regulations and restrictions for travelers to Poland"
+            ]
+          },
+          "Krakow": {
+            "name": "Krakow",
+            "kosherFood": [
+              "Check Chabad Krakow website for kosher food options in the area",
+              "Kosher food available in Krakow",
+              "Check Chabad Krakow website for updated kosher dining options",
+              "Kosher restaurants available in the Jewish quarter of Krakow"
+            ],
+            "minyanim": [
+              "Synagogue services in the historic Jewish district",
+              "Visit Auschwitz for historical Jewish sites",
+              "Daily minyanim at Chabad of Krakow"
+            ],
+            "accommodations": [
+              "Consider accommodations with kosher amenities for convenience",
+              "Hotels and guesthouses near the Jewish quarter in Krakow",
+              "Accommodations in Krakow"
+            ],
+            "activities": [
+              "Private tours available in Krakow for night tours",
+              "Explore Jewish historical sites in Krakow",
+              "Explore the Wawel Royal Castle and Kazimierz district",
+              "Explore Jewish heritage sites in Krakow",
+              "Visit the Auschwitz-Birkenau Memorial and Museum"
+            ],
+            "other": [
+              "Join guided tours to learn about Krakow's Jewish heritage",
+              "Contact Chabad Krakow for Shabbat meal arrangements",
+              "Consider a circular route trip with a rental car to visit various cities in Poland"
+            ]
+          },
+          "Wroclaw": {
+            "name": "Wroclaw",
+            "kosherFood": [
+              "Check with local Jewish community or Chabad for kosher food options in Wroclaw"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Gdansk": {
+            "name": "Gdansk",
+            "kosherFood": [
+              "Supermarket in Gdansk carries a decent amount of Kosher products"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "CROATIA",
+        "overallWriteup": "",
+        "cities": {
+          "Zagreb": {
+            "name": "Zagreb",
+            "kosherFood": [
+              "Check Chabad list for kosher options in Zagreb",
+              "Chabad available in Zagreb, but no kosher restaurants mentioned"
+            ],
+            "minyanim": [
+              "Contact local Chabad for information on minyanim in Zagreb",
+              "Check with Chabad in Zagreb for information on minyanim"
+            ],
+            "accommodations": [
+              "Various hotels available in Zagreb",
+              "Accommodations available in Zagreb"
+            ],
+            "activities": [
+              "Enjoy the beautiful architecture of the city",
+              "Fly into Zagreb, take a bus from Zagreb to Ljubljana, then rent a car to travel around magnificent Slovenia in 2 days max",
+              "Explore the city of Zagreb and its attractions",
+              "Explore the historic sites in Zagreb"
+            ],
+            "other": [
+              "Limited kosher options in Zagreb, best to plan ahead"
+            ]
+          }
+        }
+      },
+      {
+        "name": "BOSNIA AND HERZEGOVINA",
+        "overallWriteup": "",
+        "cities": {
+          "Sarajevo": {
+            "name": "Sarajevo",
+            "kosherFood": [
+              "Check with Reiter E for a kosher list for Bosnia"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "AUSTRIA",
+        "overallWriteup": "",
+        "cities": {
+          "Vienna": {
+            "name": "Vienna",
+            "kosherFood": [
+              "Various kosher places to eat in Vienna, check restaurant listings for details",
+              "Check Chabad of Vienna for kosher food options",
+              "Look for a list of kosher restaurants and shops in Vienna",
+              "Check the Consistoire website for a list of Lindt products authorized by the beis din of Paris",
+              "Check with local Chabad for updated kosher food options",
+              "Look for Lindt chocolates made in Belgium or France for kosher certification",
+              "Inquire about kosher hotels in Vienna, Austria",
+              "Reiter E (Tokyo): Also, just general fyi, many flights going to former Yugoslavia come thru Vienna, so that's a convenient place to pickup kosher food",
+              "Kosher restaurants available in Vienna",
+              "Check with local Chabad for kosher food recommendations",
+              "Kosher restaurants available in Vienna, such as Shalom Restaurant and Novellino Kosher Restaurant"
+            ],
+            "minyanim": [
+              "Yaakov Drebin: Spain Kosher Lists and links posted here",
+              "Multiple synagogues in Vienna area",
+              "Chabad of Vienna offers daily minyanim",
+              "Chabad of Vienna offers daily minyanim and Shabbat services",
+              "Other synagogues in Vienna for prayer services",
+              "Multiple synagogues in Vienna for Shabbat services",
+              "Chabad of Vienna available for minyanim"
+            ],
+            "accommodations": [
+              "Various hotels available in Vienna",
+              "Consider staying in the Jewish Quarter for proximity to synagogues",
+              "Reiter E (Tokyo): Consider booking a sleeper car for an overnight train from Vienna to Warsaw to save on lodging",
+              "Check with local Chabad for accommodation recommendations",
+              "Various hotels and apartments in Vienna",
+              "Consider staying in the Leopoldstadt district for proximity to Jewish sites",
+              "Various hotels in Vienna, including Hotel Stefanie and Hotel Das Capri"
+            ],
+            "activities": [
+              "Attend a performance at the Opera House",
+              "Ringstrafe Tram Tour",
+              "Visit Stadttempel (Synagogue), Ringstrafe Tram Tour, Opera House, Belvedere Palace, Gardens, Schonbrunn Palace, Gardens, Viennese Giant Ferris Wheel",
+              "Take the Ringstrafe Tram Tour",
+              "Discover Belvedere Palace and its Gardens",
+              "Visit the historic Schonbrunn Palace",
+              "Explore Spanish Riding House, Stadttempel, Ringstrafe Tram Tour, and more in Vienna",
+              "Explore Stadttempel (Synagogue) and Holocaust memorials",
+              "Explore Schonbrunn Palace and Gardens",
+              "Spanish Riding House",
+              "Visit the Spanish Riding House",
+              "Ride the Viennese Giant Ferris Wheel",
+              "Explore the Jewish Museum in Vienna",
+              "Explore the Jewish Museum and Jewish Quarter in Vienna",
+              "Enjoy a Danube River cruise",
+              "Visit the historic Jewish Quarter"
+            ],
+            "other": [
+              "Contact Chabad of Vienna for assistance with kosher amenities",
+              "Consider a day trip to Bratislava for additional experiences",
+              "Contact Chabad of Vienna for updated kosher food recommendations",
+              "Check with local Jewish community for Shabbat hospitality options",
+              "Yaakov Drebin: They're all located near the city center",
+              "Use KosherTravelInfo.com for comprehensive kosher travel guidance",
+              "If time allows, consider visiting Chasam Sofer kever and River Cafe in Bratislava",
+              "Verify the origin of Lindt chocolates in Vienna for kosher compliance",
+              "Check Austrian Airlines for flights to Tel Aviv",
+              "Check current status of lounges in Vienna for access",
+              "Kosher grocery in the third district of Vienna: Visit the kosher grocery in the third district of Vienna for a variety of kosher products like chips, ice cream, and chocolate.",
+              "Explore Belvedere Palace and Gardens",
+              "Consider leaving the city for the Austrian countryside / Alps",
+              "Visit Stadttempel (Synagogue) and Holocaust memorials"
+            ]
+          }
+        }
+      },
+      {
+        "name": "ITALY",
+        "overallWriteup": "",
+        "cities": {
+          "Rome": {
+            "name": "Rome",
+            "kosherFood": [
+              "Yaakov Drebin: Check with Chabad for current kosher food options in Rome",
+              "Kosher stores available in Rome, Venice, and Milan for pre-packaged food",
+              "Ruth's Restaurant: Under supervision of Chief Rabbi of Florence, but check with Chabad for current status"
+            ],
+            "minyanim": [
+              "Multiple synagogues in Rome area",
+              "Yaakov Drebin: Chabad of Rome available for minyanim",
+              "Chabad of Rome available for minyanim",
+              "Yaakov Drebin: Multiple synagogues in Rome area"
+            ],
+            "accommodations": [
+              "Check with local Chabad for accommodation recommendations",
+              "Yaakov Drebin: Check with local Chabad for accommodation recommendations",
+              "Various hotels available in Rome"
+            ],
+            "activities": [
+              "Yaakov Drebin: Vatican City nearby",
+              "Jewish historical sites in Rome",
+              "Yaakov Drebin: Explore Jewish historical sites in Rome",
+              "Vatican City nearby"
+            ],
+            "other": [
+              "Use KosherQuest.org for reliable kosher information",
+              "Yaakov Drebin: Contact Chabad of Rome for current kosher food status",
+              "Yaakov Drebin: Use KosherQuest.org for reliable kosher information",
+              "Contact Chabad of Rome for current kosher food status"
+            ]
+          },
+          "Venice": {
+            "name": "Venice",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Consider staying at Hotel Palace Bonvecchiati in Venice for a normal and nice experience"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Milan": {
+            "name": "Milan",
+            "kosherFood": [
+              "Alef makes a great veal Milanese"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "SLOVENIA",
+        "overallWriteup": "",
+        "cities": {
+          "Bled_Lake": {
+            "name": "Bled Lake",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Fly into Zagreb, take a bus from Zagreb to Ljubljana, then rent a car to travel around magnificent Slovenia in 2 days max"
+            ],
+            "other": []
+          },
+          "Ljubljana": {
+            "name": "Ljubljana",
+            "kosherFood": [
+              "Limited kosher options available, recommend contacting local Chabad for updated information"
+            ],
+            "minyanim": [
+              "Chabad of Ljubljana available for minyanim",
+              "Check with Chabad for Shabbat services and meal options"
+            ],
+            "accommodations": [
+              "Consider staying near Chabad of Ljubljana for Shabbat convenience"
+            ],
+            "activities": [
+              "Fly into Zagreb, take a bus from Zagreb to Ljubljana, then rent a car to travel around magnificent Slovenia in 2 days max",
+              "Visit nearby natural attractions such as Lake Bled and Triglav National Park",
+              "Explore the charming old town of Ljubljana",
+              "Explore the beauty of Lake Bled",
+              "Visit the famous castle in Ljubljana"
+            ],
+            "other": [
+              "Respect local customs and traditions while visiting Slovenia",
+              "Prepare for limited kosher facilities, bring necessary supplies"
+            ]
+          }
+        }
+      },
+      {
+        "name": "CZECH REPUBLIC",
+        "overallWriteup": "",
+        "cities": {
+          "Prague": {
+            "name": "Prague",
+            "kosherFood": [
+              "King David Hotel in Prague offers meals year-round",
+              "Try traditional Jewish dishes like cholent and strudel",
+              "Check with Chabad for current status of meals",
+              "Kosher restaurants and cafes available in the Jewish Quarter of Prague"
+            ],
+            "minyanim": [
+              "Minyan pretty much always available at King David Hotel in Prague",
+              "Services at the Old-New Synagogue, one of Europe's oldest active synagogues",
+              "Multiple synagogues in Prague with daily minyanim"
+            ],
+            "accommodations": [
+              "Consider boutique hotels or guesthouses for a unique experience",
+              "Stay in the Josefov area for easy access to kosher facilities and synagogues"
+            ],
+            "activities": [
+              "Visit the Jewish Museum and Old Jewish Cemetery",
+              "Visit historical sites and enjoy the local culture",
+              "Explore Prague Castle and the Charles Bridge",
+              "Explore the beautiful city of Prague"
+            ],
+            "other": [
+              "Check with Chabad of Prague for Shabbat hospitality options",
+              "Attend a classical music concert in one of Prague's historic venues",
+              "Check with Chabad for kosher options and recommendations in Prague"
+            ]
+          }
+        }
+      },
+      {
+        "name": "BELGIUM",
+        "overallWriteup": "",
+        "cities": {
+          "Brussels": {
+            "name": "Brussels",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Indulge in buying chocolate in Brussels"
+            ],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "FRANCE",
+        "overallWriteup": "",
+        "cities": {
+          "Strasbourg": {
+            "name": "Strasbourg",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Find a hotel near Strasbourg for convenient access to minyanim"
+            ],
+            "activities": [],
+            "other": []
+          },
+          "Paris": {
+            "name": "Paris",
+            "kosherFood": [
+              "Schron S: Check with local Jewish community for kosher dining recommendations",
+              "Schron S: Kosher restaurants available in Paris with proper supervision"
+            ],
+            "minyanim": [
+              " Synagogues and Chabad centers in Paris for minyanim",
+              " Contact local Jewish community for Shabbat minyanim"
+            ],
+            "accommodations": [
+              "Schron S: Various hotels in Paris suitable for Jewish travelers",
+              "Kosher hotels available in Paris, but potentially problematic, recommend checking with local resources for specific recommendations",
+              "Schron S: Consider staying in areas with easy access to Jewish amenities"
+            ],
+            "activities": [
+              "Schron S: Visit the historic synagogues in Paris",
+              "Schron S: Explore Jewish history in the Marais district of Paris"
+            ],
+            "other": [
+              "Schron S: Respect local customs and traditions while exploring France",
+              "Schron S: Ensure to have kosher food options planned in advance"
+            ]
+          },
+          "Alpes_d_Huez": {
+            "name": "Alpes d'Huez",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [
+              "Various hotels available in Alpes d'Huez"
+            ],
+            "activities": [
+              "Skiing and winter sports in Alpes d'Huez",
+              "Scenic views and outdoor activities"
+            ],
+            "other": [
+              "Check local resources for kosher food options",
+              "Keep updated on kosher travel websites for current information"
+            ]
+          },
+          "South_of_France": {
+            "name": "South of France",
+            "kosherFood": [
+              "Contact local Jewish community or Chabad for kosher restaurant recommendations"
+            ],
+            "minyanim": [
+              "Check with Chabad or synagogues in the South of France for minyan schedules"
+            ],
+            "accommodations": [
+              "Various hotels and rental options available in the South of France"
+            ],
+            "activities": [
+              "Visit historic towns and vineyards in the region",
+              "Explore the beautiful Mediterranean coastline"
+            ],
+            "other": [
+              "Utilize online resources for up-to-date information on kosher facilities",
+              "Plan ahead for Shabbat accommodations and meals in the South of France"
+            ]
+          }
+        }
+      },
+      {
+        "name": "UNITED KINGDOM",
+        "overallWriteup": "",
+        "cities": {
+          "London": {
+            "name": "London",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "SLOVAKIA",
+        "overallWriteup": "",
+        "cities": {
+          "Bratislava": {
+            "name": "Bratislava",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "GEORGIA",
+        "overallWriteup": "",
+        "cities": {
+          "Georgia": {
+            "name": "Georgia",
+            "kosherFood": [
+              "Consider bringing non-perishable kosher items",
+              "Limited kosher food options in Tbilisi"
+            ],
+            "minyanim": [
+              "Synagogue in Tbilisi for Shabbat services",
+              "Contact local Jewish community for minyan times"
+            ],
+            "accommodations": [
+              "Check with Chabad for kosher accommodation recommendations",
+              "Hotels and guesthouses in Tbilisi"
+            ],
+            "activities": [
+              "Explore the ancient Narikala Fortress",
+              "Visit the stunning Gergeti Trinity Church in Kazbegi"
+            ],
+            "other": [
+              "Experience the warm hospitality of Georgian Jews",
+              "Coordinate with Chabad Tbilisi for kosher meal options"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
+    "region": "Northern Europe",
+    "countries": [
+      {
+        "name": "ICELAND",
+        "overallWriteup": "",
+        "cities": {
+          "Reykjavik": {
+            "name": "Reykjavik",
+            "kosherFood": [
+              "Check with local Chabad or Jewish community for kosher food options in Reykjavik",
+              "Consider bringing pre-packaged kosher food due to limited availability",
+              "Seek recommendations from local community for kosher food options in Reykjavik",
+              "Contact the newly opened Chabad in Iceland for kosher food options",
+              "Check with local Chabad for any updated kosher establishments",
+              "Kosher restaurant Mama Mia's recommended for a must-go experience",
+              "Limited kosher food options in Reykjavik",
+              "Contact Chabad of Iceland for kosher food options"
+            ],
+            "minyanim": [
+              "Explore local synagogues for prayer services",
+              "Contact Chabad of Iceland for kosher food recommendations",
+              "Contact Chabad of Iceland for information on minyanim in Reykjavik",
+              "Inquire about minyanim availability at Chabad of Iceland",
+              "Contact local synagogues for prayer services",
+              "Chabad of Iceland available for minyanim"
+            ],
+            "accommodations": [
+              "Consider moving around each night for accommodation variety",
+              "Accommodations range from campervan rentals to central locations for shorter drives each day",
+              "Consider Airbnb options for more flexibility",
+              "Alternatively, use one central location as a base for shorter daily drives",
+              "Consider campervan options for a unique Icelandic experience",
+              "Consider Airbnb options for more flexibility in food preparation",
+              "Various hotels and guesthouses in Reykjavik",
+              "Look for accommodations with kitchen facilities to prepare kosher meals"
+            ],
+            "activities": [
+              "Visit the famous Blue Lagoon for a relaxing experience",
+              "Consider visiting the Blue Lagoon and other natural hot tubs similar to Blue Lagoon",
+              "Explore the unique landscapes and attractions of Reykjavik",
+              "Discover the Snæfellsjökull Peninsula",
+              "Consider a stopover in Iceland for a day",
+              "Very safe city with minimal crime rates",
+              "Visit the Golden Circle route from Reykjavik up to Gulfoss",
+              "Check out the unique natural beauty of Iceland, including geysers, waterfalls, and the Blue Lagoon",
+              "Explore the natural wonders of Iceland",
+              "Visit the unique natural wonders of Iceland such as waterfalls, geysers, and glaciers",
+              "Explore the cultural attractions and museums in Reykjavik",
+              "Visit the Golden Circle with stops like Gulfoss",
+              "Explore the South coast from Reykjavik to Jökulsárlón Iceberg Lagoon"
+            ],
+            "other": [
+              "Plan ahead for kosher meals or bring non-perishable kosher food",
+              "(3849) Chabad of Iceland contact information available at https://www.chabad.org/jewish-centers/3849544/Reykjavik/Synagogue/Chabad-of-Iceland",
+              "Enjoy the scenic beauty and outdoor adventures Iceland has to offer",
+              "Enjoy the unique culture and friendly people of Reykjavik",
+              "Ensure to visit Mama Mia's in Reykjavik for a complete trip",
+              "Plan ahead and communicate dietary needs clearly at restaurants",
+              "Check Chabad for local recommendations and services",
+              "No established Jewish community in Iceland",
+              "Limited kosher food options, recommended to bring some supplies"
+            ]
+          },
+          "Iceland": {
+            "name": "Iceland",
+            "kosherFood": [
+              "No specific kosher food recommendations mentioned"
+            ],
+            "minyanim": [
+              "No specific information about minyanim"
+            ],
+            "accommodations": [
+              "No specific hotel recommendations mentioned"
+            ],
+            "activities": [
+              "No specific activities mentioned"
+            ],
+            "other": [
+              "No specific details about kosher options in Iceland"
+            ]
+          }
+        }
+      },
+      {
+        "name": "LITHUANIA",
+        "overallWriteup": "",
+        "cities": {
+          "Vilnius": {
+            "name": "Vilnius",
+            "kosherFood": [
+              "(1361) Shalom Kosher restaurant at 1361 Lamberton Dr, Silver Spring, MD 20902",
+              "Enjoy a meal at a kosher restaurant in Vilnius",
+              "Huge kosher supermarket with sushi, takeout, bakery and more in Vilnius"
+            ],
+            "minyanim": [
+              "Visit the Jewish synagogue in the ghetto for minyanim"
+            ],
+            "accommodations": [
+              "Contact Portnoy Moshe Tours for accommodation recommendations"
+            ],
+            "activities": [
+              "Explore the Jewish historical sites in Vilnius",
+              "Take a guided tour of the Colosseum, Ghetto, Vatican, and various Fountains/Piazzas in Vilnius"
+            ],
+            "other": [
+              "Contact Portnoy Moshe Tours for kosher food recommendations in Vilnius",
+              "Check out Shalom Kosher restaurant for kosher options",
+              "Consider a 3-hour guided tour with David Walden"
+            ]
+          },
+          "Antwerp": {
+            "name": "Antwerp",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Antwerp trip isn't complete without visiting Mama Mia's kosher restaurant"
+            ]
+          },
+          "Frankfurt": {
+            "name": "Frankfurt",
+            "kosherFood": [
+              "First class terminal in Frankfurt offers kosher food, confirm 24 hours in advance"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "NORWAY",
+        "overallWriteup": "",
+        "cities": {
+          "Oslo": {
+            "name": "Oslo",
+            "kosherFood": [],
+            "minyanim": [
+              "Chabad in Oslo available for minyanim"
+            ],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Bergen": {
+            "name": "Bergen",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Scenic scuba diving spots near Bergen"
+            ],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "IRELAND",
+        "overallWriteup": "",
+        "cities": {
+          "Dublin": {
+            "name": "Dublin",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Consider flying from Düsseldorf to Dublin for significantly cheaper flights"
+            ]
+          },
+          "Shannon": {
+            "name": "Shannon",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Shannon in Ireland mentioned as a flight destination"
+            ]
+          }
+        }
+      },
+      {
+        "name": "FINLAND",
+        "overallWriteup": "",
+        "cities": {
+          "Helsinki": {
+            "name": "Helsinki",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Goldstein Chaim: Experience a Finnish sauna in Helsinki, Finland for a day of relaxation"
+            ],
+            "other": [
+              "For kosher travelers, contact the local Chabad in Helsinki for information on kosher food options and synagogues in the area."
+            ]
+          },
+          "Ivalo": {
+            "name": "Ivalo",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "UNITED KINGDOM",
+        "overallWriteup": "",
+        "cities": {
+          "London": {
+            "name": "London",
+            "kosherFood": [],
+            "minyanim": [
+              "Check for seasonal Chabad in London for minyanim"
+            ],
+            "accommodations": [
+              "Consider staying in areas like Lincoln, Bethlehem, and Conway for easy access to NH Mountains attractions"
+            ],
+            "activities": [
+              "Visit attractions like Flume Gorge State Park, Clark's Bears Amusement Park, and Cannon Mt. Gondola in Lincoln Area",
+              "Explore Mt. Washington Area for scenic drives, waterfalls, horseback riding, and more"
+            ],
+            "other": []
+          }
+        }
+      }
+    ]
+  },
+  {
+    "region": "Eastern Europe",
+    "countries": [
+      {
+        "name": "POLAND",
+        "overallWriteup": "",
+        "cities": {
+          "Warsaw": {
+            "name": "Warsaw",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Horseback Riding available near Amuka"
+            ],
+            "other": [
+              "Check for a kosher list for Poland before your trip"
+            ]
+          }
+        }
+      },
+      {
+        "name": "UKRAINE",
+        "overallWriteup": "",
+        "cities": {
+          "Kiev": {
+            "name": "Kiev",
+            "kosherFood": [
+              "🔸In-a-Day: Kiev, Ukraine - Taki Da restaurant offers kosher options",
+              "Check with local Chabad for kosher restaurant recommendations"
+            ],
+            "minyanim": [
+              "Brodsky Synagogue with minyanim and possible food options",
+              "🔸In-a-Day: Kiev, Ukraine - Brodsky Synagogue (Chabad) for minyanim",
+              "Chabad of Kiev available for minyanim",
+              "Multiple synagogues in Kiev area"
+            ],
+            "accommodations": [
+              "Airbnb has nice, affordable options for overnight stays",
+              "Check with local Chabad for accommodation recommendations",
+              "Various hotels available in Kiev"
+            ],
+            "activities": [
+              "🔸In-a-Day: Kiev, Ukraine - Visit Independence Square, Golden Gate, Friendship of Nations Arch, Chernobyl Museum, Mariyinsky Palace area, and Motherland Monument with WW2 Museum",
+              "Visit Podle compound with a big shul, cheap meat restaurant (Taki Da), and nice Mikva (MBD Mik)",
+              "Explore Independence Square, Golden Gate, Friendship of Nations Arch, Chernobyl Museum, Mariyinsky Palace area, Motherland Monument, and WW2 Museum",
+              "Consider a circular route to explore the city's attractions"
+            ],
+            "other": [
+              "Budget-friendly city with cheap transportation options like Uber",
+              "City not very tourist-friendly, be prepared to navigate on your own",
+              "Explore open markets for cheap produce, gifts, fur, etc.",
+              "Contact local Chabad for current kosher food options",
+              "Consider taking advantage of cheap prices for alcohol or cigarettes"
+            ]
+          },
+          "Kyiv": {
+            "name": "Kyiv",
+            "kosherFood": [
+              "Research kosher options in Kyiv for authentic Ukrainian cuisine"
+            ],
+            "minyanim": [
+              "Check with local Jewish community for minyanim in Kyiv"
+            ],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          },
+          "Chernivtsy": {
+            "name": "Chernivtsy",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "RUSSIA",
+        "overallWriteup": "",
+        "cities": {
+          "Moscow": {
+            "name": "Moscow",
+            "kosherFood": [
+              "No specific information available about kosher food at Moscow airport, recommend checking with local Chabad or kosher certification agencies"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "ROMANIA",
+        "overallWriteup": "",
+        "cities": {
+          "Bucharest": {
+            "name": "Bucharest",
+            "kosherFood": [
+              "Check Chabad of Bucharest for kosher food recommendations",
+              "Kosher meals available at Chabad Bucharest"
+            ],
+            "minyanim": [
+              "Chabad in Bucharest for minyanim",
+              "Chabad synagogue Yeshua Tova and Chabad Lubavitch Romania in Bucharest"
+            ],
+            "accommodations": [
+              "Check with Chabad of Bucharest for accommodation suggestions",
+              "Various hotels available in Bucharest",
+              "Accommodation options in Bucharest"
+            ],
+            "activities": [
+              "Visit Chabad of Bucharest for community events",
+              "Consider visiting Jewish historical sites in Bucharest",
+              "Explore Jewish heritage sites in Bucharest",
+              "Explore Chasidic towns like Kluj and Satu Mare for hachnosas orchim"
+            ],
+            "other": [
+              "Check with local resources for kosher options in Bucharest",
+              "Seek itinerary recommendations for Romania",
+              "Use reliable sources like Chabad for up-to-date kosher information",
+              "Verify kosher status with Chabad of Bucharest",
+              "Consider visiting Chabad in Kishinev, Moldova"
+            ]
+          },
+          "Brasov": {
+            "name": "Brasov",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "MOLDOVA",
+        "overallWriteup": "",
+        "cities": {
+          "Kishinev": {
+            "name": "Kishinev",
+            "kosherFood": [
+              "Kosher meals available at Chabad in Kishinev"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": [
+              "Consider taking a train from Bucharest to Kishinev"
+            ]
+          }
+        }
+      },
+      {
+        "name": "HUNGARY",
+        "overallWriteup": "",
+        "cities": {
+          "Budapest": {
+            "name": "Budapest",
+            "kosherFood": [],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Jewish historical sites in Budapest"
+            ],
+            "other": [
+              "Contact local Jewish community for information on minyanim and kosher food options"
+            ]
+          }
+        }
+      },
+      {
+        "name": "ITALY",
+        "overallWriteup": "",
+        "cities": {
+          "Rome": {
+            "name": "Rome",
+            "kosherFood": [
+              "Check the kosher list for Italy at https://www.italykosherunion.it/it/",
+              "Confirm the kosher status of milk in Italy, non-Chalav Yisroel"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [],
+            "other": []
+          }
+        }
+      },
+      {
+        "name": "BULGARIA",
+        "overallWriteup": "",
+        "cities": {
+          "Sofia": {
+            "name": "Sofia",
+            "kosherFood": [
+              "Try the schnitzel/falafel place in Sofia for reliable and delicious kosher meals",
+              "Chabad in Sofia offers good kosher options"
+            ],
+            "minyanim": [],
+            "accommodations": [],
+            "activities": [
+              "Explore the beautiful mountains and hiking trails around Sofia"
+            ],
+            "other": [
+              "Limited activities in the city of Sofia, but plenty of outdoor options nearby"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  {
     "region": "Middle East",
     "countries": [
       {
